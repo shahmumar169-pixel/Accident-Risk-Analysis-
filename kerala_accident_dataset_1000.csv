@@ -1,0 +1,1001 @@
+Date,Time,City,Latitude,Longitude,Weather,Road_Type,Light_Condition,Vehicle_Type,Speed_Limit,Vehicles_Involved,Accident_Severity,Accident_Cause,Alcohol_Involved,Overspeeding_Severity,Drunk_Driving_Severity
+2024-11-24,11:21,Malappuram,11.099307228185129,76.05039631435842,Foggy,Rural Road,Daylight,Car,50,4,High,Overspeeding,No,High,High
+2023-09-27,02:51,Kollam,8.87585863252568,76.62801460337145,Clear,Rural Road,Daylight,Truck,50,2,Medium,Drunk Driving,Yes,Low,Medium
+2024-06-11,18:23,Kottayam,9.634595184292237,76.54709872876205,Cloudy,Rural Road,Night,Bike,60,3,Low,Drunk Driving,Yes,Medium,Medium
+2023-12-04,11:55,Thrissur,10.549807303266867,76.21946831444261,Rainy,City Road,Low Light,Bike,100,4,Low,Road Condition,No,High,High
+2024-08-06,15:56,Kozhikode,11.26403989972057,75.81595483419983,Clear,Rural Road,Night,Car,50,4,Low,Distracted Driving,Yes,Medium,Medium
+2024-06-03,14:03,Thiruvananthapuram,8.565456614850754,76.8913809032838,Rainy,Highway,Night,Car,40,1,High,Bad Weather,Yes,Low,High
+2024-06-12,18:55,Ernakulam,9.96264223689274,76.25770167118266,Foggy,Highway,Low Light,Bike,50,3,Medium,Road Condition,Yes,Low,Medium
+2024-01-19,07:33,Alappuzha,9.529805017602282,76.33450396367932,Foggy,Highway,Low Light,Bus,40,1,High,Distracted Driving,Yes,Medium,High
+2024-01-19,04:42,Wayanad,11.663161533362766,76.10154288331269,Clear,Highway,Night,Truck,60,2,High,Distracted Driving,Yes,Low,Low
+2023-04-06,10:11,Kannur,11.87614114515162,75.33315099538831,Rainy,Rural Road,Night,Truck,50,4,Medium,Overspeeding,Yes,Medium,Medium
+2023-04-18,10:14,Malappuram,11.048805676224935,76.02355877357375,Cloudy,Rural Road,Night,Bike,100,4,High,Bad Weather,Yes,High,Low
+2024-07-22,10:28,Thrissur,10.511869836511531,76.2498052488418,Clear,Rural Road,Low Light,Bus,40,3,High,Drunk Driving,Yes,Low,Low
+2024-06-06,12:11,Ernakulam,10.017317323738343,76.251181580103,Foggy,Rural Road,Night,Truck,80,4,Low,Distracted Driving,Yes,High,Low
+2023-05-11,19:16,Pathanamthitta,9.224697772322939,76.77190967144534,Clear,City Road,Low Light,Bus,80,2,High,Distracted Driving,No,Low,Medium
+2024-02-07,20:43,Kasaragod,12.487011163442265,74.98674463157822,Foggy,City Road,Night,Truck,50,1,Low,Distracted Driving,Yes,Low,Medium
+2023-03-09,02:02,Malappuram,11.072673546635857,76.0414480982209,Foggy,City Road,Low Light,Truck,50,2,Low,Overspeeding,Yes,Medium,Medium
+2023-01-21,18:10,Idukki,9.833347548643971,76.96641940721246,Foggy,City Road,Night,Bus,100,3,Medium,Bad Weather,No,Low,Medium
+2024-03-17,07:10,Kasaragod,12.507289248286526,74.99921524744121,Cloudy,Highway,Night,Bike,50,3,High,Bad Weather,Yes,Low,Low
+2023-02-12,19:39,Ernakulam,9.995744898743222,76.28971798183015,Clear,City Road,Daylight,Truck,80,4,Low,Overspeeding,No,High,Low
+2024-06-14,12:45,Thrissur,10.531859296031296,76.25540429571777,Rainy,City Road,Night,Bike,50,4,High,Road Condition,Yes,Low,High
+2023-11-25,11:14,Malappuram,11.0051320350438,76.07130894139944,Clear,Highway,Low Light,Bike,80,4,High,Road Condition,Yes,High,Low
+2023-12-26,03:23,Palakkad,10.807443465803795,76.65666234265652,Foggy,Highway,Low Light,Car,40,2,High,Road Condition,Yes,High,Low
+2023-09-10,22:22,Wayanad,11.72812781220174,76.16177022129436,Clear,Rural Road,Daylight,Bus,40,4,Low,Overspeeding,Yes,High,Medium
+2023-07-15,14:48,Kollam,8.910932152525273,76.62506986847731,Foggy,Rural Road,Low Light,Truck,40,1,Low,Distracted Driving,Yes,Medium,Medium
+2024-08-24,10:21,Thiruvananthapuram,8.496303405408819,76.92003675932824,Cloudy,Highway,Night,Bike,60,4,High,Overspeeding,Yes,Low,High
+2024-02-23,07:07,Alappuzha,9.545411267425525,76.32005176230095,Clear,Rural Road,Daylight,Truck,50,3,Low,Road Condition,No,Low,High
+2023-06-25,22:05,Kozhikode,11.280637062249196,75.77538290386273,Clear,Highway,Daylight,Truck,50,4,Medium,Bad Weather,No,High,Low
+2023-09-18,13:33,Palakkad,10.780137364149013,76.67677647211912,Foggy,Highway,Night,Bike,60,4,Low,Drunk Driving,No,Low,Low
+2024-02-18,14:02,Kollam,8.90208567873182,76.57076780915115,Cloudy,Highway,Low Light,Bike,80,4,Low,Overspeeding,No,High,Medium
+2023-03-08,10:50,Wayanad,11.670067149166613,76.13311703215152,Rainy,City Road,Night,Bike,50,1,High,Distracted Driving,Yes,Medium,Medium
+2023-01-17,18:26,Alappuzha,9.536505768532173,76.34092994942323,Rainy,Highway,Night,Car,40,1,Medium,Road Condition,Yes,Low,High
+2023-10-07,06:21,Thiruvananthapuram,8.478829209917249,76.96819216056234,Foggy,Rural Road,Daylight,Truck,60,4,High,Road Condition,Yes,Medium,Medium
+2024-04-25,00:44,Wayanad,11.703416114627238,76.18095668150633,Rainy,Rural Road,Daylight,Bike,50,4,Medium,Bad Weather,No,Low,Medium
+2023-04-04,14:33,Pathanamthitta,9.264774802072294,76.7881255521145,Rainy,City Road,Low Light,Truck,80,4,High,Road Condition,Yes,Medium,Low
+2024-08-30,21:44,Pathanamthitta,9.263252753566016,76.79981010494569,Foggy,Highway,Low Light,Truck,50,4,Medium,Overspeeding,Yes,High,High
+2023-06-09,06:21,Alappuzha,9.460648574421288,76.3169407704267,Rainy,Highway,Daylight,Bike,80,3,Medium,Drunk Driving,Yes,Medium,High
+2024-08-15,06:37,Kozhikode,11.283779709717365,75.77327886779966,Foggy,Rural Road,Night,Bike,60,3,Low,Overspeeding,No,Low,Low
+2023-09-02,09:07,Ernakulam,10.005715973855734,76.27637996353471,Foggy,Rural Road,Daylight,Truck,100,2,Medium,Overspeeding,Yes,Low,Medium
+2024-01-08,16:00,Thrissur,10.522397915251139,76.18940431655791,Cloudy,Highway,Low Light,Bus,50,1,Medium,Bad Weather,No,Medium,Medium
+2024-04-05,09:09,Malappuram,11.053291110045622,76.07982511723148,Cloudy,Highway,Daylight,Bus,50,1,Medium,Drunk Driving,No,High,Medium
+2023-02-16,08:46,Wayanad,11.719005746886834,76.15322962371332,Foggy,Highway,Daylight,Truck,60,4,Low,Road Condition,No,Low,Medium
+2024-11-08,02:43,Kasaragod,12.490231027125068,75.0087489250965,Rainy,Highway,Low Light,Bike,80,1,Low,Overspeeding,No,Low,Low
+2024-04-01,07:37,Kasaragod,12.52658302368585,75.01448485053118,Rainy,Highway,Low Light,Truck,40,4,Medium,Drunk Driving,No,High,Low
+2024-06-06,05:26,Palakkad,10.766884220334035,76.64953532641019,Cloudy,City Road,Night,Truck,100,4,Medium,Distracted Driving,Yes,Low,Medium
+2024-02-09,04:50,Thiruvananthapuram,8.514812176773304,76.897622363658,Rainy,Rural Road,Night,Bus,100,1,High,Overspeeding,Yes,High,Medium
+2023-02-22,07:06,Alappuzha,9.466111047580188,76.37898280467314,Rainy,Highway,Daylight,Truck,50,1,Medium,Bad Weather,Yes,High,Medium
+2024-08-02,12:59,Wayanad,11.661720554764292,76.17973727648472,Rainy,City Road,Low Light,Car,60,1,Low,Distracted Driving,No,Low,Medium
+2023-09-30,09:49,Thiruvananthapuram,8.507516311046249,76.90172708701857,Foggy,Highway,Low Light,Truck,100,3,Low,Road Condition,Yes,Medium,High
+2023-07-23,12:31,Kasaragod,12.515938239294071,75.00937313263141,Cloudy,Highway,Night,Bike,100,2,Medium,Bad Weather,Yes,Medium,Low
+2023-02-01,17:46,Kozhikode,11.22227523470406,75.75633208594436,Rainy,City Road,Daylight,Bus,40,3,Medium,Drunk Driving,Yes,Medium,Medium
+2023-10-23,05:36,Kannur,11.83186469896232,75.36260398640167,Cloudy,Rural Road,Daylight,Bus,60,2,Low,Bad Weather,No,High,High
+2023-03-03,15:55,Thrissur,10.50821212845303,76.26382516025227,Foggy,Highway,Daylight,Bus,50,3,Low,Road Condition,No,High,Low
+2023-12-09,05:56,Kollam,8.871960273630435,76.66160870547675,Cloudy,Highway,Night,Car,60,4,High,Drunk Driving,No,High,High
+2024-02-10,04:02,Kollam,8.907882834905429,76.6170061188035,Foggy,Highway,Low Light,Bus,80,3,High,Distracted Driving,Yes,High,High
+2023-08-21,16:10,Malappuram,11.040608248186663,76.0393256308784,Clear,Highway,Night,Car,60,2,Low,Distracted Driving,No,Low,High
+2023-03-03,08:17,Kannur,11.918787136112682,75.33485248004821,Cloudy,Rural Road,Daylight,Bike,40,1,Medium,Overspeeding,Yes,Medium,Medium
+2023-02-16,08:07,Kannur,11.897645751891227,75.41353093162438,Clear,City Road,Low Light,Bike,80,2,Low,Overspeeding,Yes,Low,Low
+2024-02-05,22:32,Pathanamthitta,9.233925423511977,76.77050663018724,Foggy,City Road,Night,Bus,50,2,Medium,Bad Weather,Yes,Low,High
+2023-03-24,20:20,Palakkad,10.795310920061777,76.63807812240432,Clear,Highway,Daylight,Bus,80,2,High,Overspeeding,No,Medium,High
+2024-10-16,03:14,Alappuzha,9.54108496851824,76.34118161531303,Foggy,Rural Road,Daylight,Car,60,1,Low,Distracted Driving,Yes,Low,Medium
+2024-07-08,04:21,Wayanad,11.728785533000913,76.13409577613527,Rainy,Rural Road,Low Light,Car,40,3,Low,Bad Weather,Yes,Low,Medium
+2024-08-07,06:52,Idukki,9.863277362495072,76.98057757610076,Clear,Rural Road,Night,Car,40,1,Medium,Drunk Driving,No,Medium,Medium
+2023-06-23,03:28,Thiruvananthapuram,8.545303026819015,76.917308158237,Rainy,Highway,Daylight,Bike,50,3,Low,Bad Weather,No,Medium,Low
+2024-06-10,02:16,Wayanad,11.65486842323083,76.1281700285451,Clear,City Road,Daylight,Car,40,2,Medium,Road Condition,No,Medium,Low
+2024-02-16,14:22,Kannur,11.916881366772385,75.358846464757,Foggy,City Road,Low Light,Car,50,2,Medium,Drunk Driving,No,Low,Medium
+2024-11-15,19:37,Malappuram,11.024342477092945,76.09646405338924,Rainy,Rural Road,Low Light,Truck,100,1,Low,Overspeeding,Yes,Medium,Low
+2024-09-30,14:13,Ernakulam,9.936308096347448,76.32505446019829,Foggy,Highway,Daylight,Bus,50,4,High,Road Condition,No,Medium,Medium
+2024-02-12,19:12,Idukki,9.88168893686991,77.00852639436044,Foggy,Rural Road,Night,Truck,100,4,Low,Road Condition,Yes,Low,High
+2024-04-07,08:57,Kannur,11.835940566662183,75.35980646710597,Clear,Rural Road,Low Light,Bus,80,4,High,Bad Weather,Yes,Medium,Low
+2024-11-17,19:26,Thrissur,10.499430543635006,76.25915460700385,Cloudy,City Road,Low Light,Truck,100,3,Low,Road Condition,Yes,High,Low
+2024-11-07,03:55,Malappuram,11.063647615254663,76.07033061607859,Cloudy,Rural Road,Low Light,Truck,80,1,Low,Overspeeding,Yes,Medium,Low
+2024-08-17,01:47,Kasaragod,12.461113839442481,74.96829144020023,Foggy,City Road,Low Light,Bike,100,3,Low,Distracted Driving,No,Medium,High
+2024-02-01,23:31,Ernakulam,10.02418903825121,76.32070692862267,Cloudy,Highway,Low Light,Car,100,2,High,Drunk Driving,No,Low,Medium
+2023-09-05,02:56,Alappuzha,9.516470669885411,76.35073545111877,Foggy,Rural Road,Low Light,Truck,80,1,Low,Drunk Driving,Yes,High,Medium
+2024-06-19,08:47,Idukki,9.831407308512125,77.00990025974264,Cloudy,Rural Road,Daylight,Car,40,3,Low,Road Condition,Yes,Medium,Low
+2024-04-30,10:07,Idukki,9.881906750755194,76.98644233559158,Cloudy,Highway,Low Light,Bike,80,1,Medium,Distracted Driving,Yes,High,Low
+2023-12-17,12:16,Wayanad,11.665883711652464,76.1545559873283,Cloudy,Highway,Daylight,Bus,40,4,Low,Overspeeding,Yes,High,Low
+2023-08-09,18:33,Wayanad,11.725492598846975,76.17036799851086,Foggy,City Road,Night,Car,60,4,Medium,Road Condition,No,Low,Low
+2024-06-29,21:26,Thrissur,10.531209321855922,76.26073447158096,Rainy,City Road,Night,Truck,60,2,Medium,Drunk Driving,Yes,Low,Medium
+2023-01-15,17:44,Wayanad,11.643935330628073,76.17696735301101,Rainy,Rural Road,Daylight,Car,50,4,Low,Bad Weather,Yes,High,Low
+2024-08-27,06:22,Kannur,11.828439441721475,75.38758814122077,Cloudy,City Road,Night,Truck,80,4,High,Distracted Driving,No,Medium,High
+2023-10-21,06:03,Thiruvananthapuram,8.571665925682847,76.96556933832288,Rainy,City Road,Daylight,Truck,40,2,High,Overspeeding,Yes,High,Low
+2023-04-28,06:00,Malappuram,11.02174826970547,76.0402456300147,Rainy,City Road,Night,Bus,60,4,High,Drunk Driving,Yes,Medium,Low
+2023-10-20,11:15,Kozhikode,11.24777919871627,75.81501126699615,Foggy,City Road,Daylight,Bus,40,4,Medium,Distracted Driving,No,Low,Medium
+2023-02-20,02:16,Kannur,11.905270884386175,75.35836881281251,Rainy,Highway,Low Light,Truck,50,1,Medium,Distracted Driving,No,Medium,Medium
+2023-09-28,19:22,Kannur,11.919568163926975,75.34132304087365,Clear,City Road,Daylight,Bus,100,4,High,Distracted Driving,Yes,Medium,Medium
+2023-04-05,07:02,Malappuram,11.057280693540054,76.07479474614199,Cloudy,Highway,Daylight,Truck,60,3,Low,Distracted Driving,No,High,Low
+2023-09-05,22:44,Kozhikode,11.303176778556937,75.7428551667438,Clear,Highway,Daylight,Bus,60,3,Low,Distracted Driving,No,Medium,Medium
+2024-08-27,22:50,Kasaragod,12.542237306330822,74.95956054204588,Foggy,City Road,Low Light,Car,80,4,High,Bad Weather,No,High,Low
+2024-04-16,16:55,Ernakulam,9.999453206318083,76.29382088263473,Cloudy,Rural Road,Daylight,Bus,100,4,Low,Distracted Driving,Yes,Low,High
+2024-02-04,13:42,Ernakulam,9.986604564751591,76.25794331468514,Rainy,Highway,Low Light,Bike,40,2,Low,Overspeeding,No,Medium,Medium
+2024-05-17,04:23,Pathanamthitta,9.296224977554214,76.79411899701263,Cloudy,City Road,Low Light,Bus,50,2,Low,Bad Weather,Yes,Low,High
+2024-10-01,20:26,Kottayam,9.557602891919984,76.5437114068418,Foggy,Rural Road,Night,Car,100,4,Low,Overspeeding,Yes,Low,High
+2023-09-27,06:38,Palakkad,10.771207176160722,76.62999371106866,Foggy,Highway,Low Light,Car,60,4,Low,Bad Weather,No,Medium,Low
+2024-03-07,13:36,Kannur,11.848431358716189,75.41583038458742,Rainy,Rural Road,Low Light,Car,100,1,Low,Bad Weather,No,Medium,Low
+2023-11-06,16:49,Ernakulam,9.97973337662917,76.33969509269063,Foggy,Highway,Daylight,Bike,80,4,Medium,Road Condition,Yes,Low,Low
+2024-08-19,18:25,Palakkad,10.768147320997707,76.69810963493026,Foggy,City Road,Night,Bike,40,4,Low,Bad Weather,Yes,High,Low
+2023-10-20,04:16,Thiruvananthapuram,8.530777505407666,76.92574470795026,Rainy,Rural Road,Daylight,Bus,100,2,Medium,Distracted Driving,Yes,Medium,High
+2024-03-27,17:41,Kollam,8.92139158085743,76.65525642878772,Rainy,Highway,Daylight,Truck,60,1,Medium,Distracted Driving,Yes,Medium,Low
+2024-02-06,03:28,Kozhikode,11.265057124679815,75.75443136600654,Foggy,City Road,Night,Car,60,3,High,Road Condition,No,High,High
+2024-07-16,13:19,Kozhikode,11.221076155958022,75.79968937317466,Foggy,Rural Road,Low Light,Car,80,2,Low,Overspeeding,Yes,Medium,Low
+2024-03-15,11:18,Idukki,9.882705441974755,76.96497257895221,Rainy,Highway,Daylight,Bus,80,1,High,Drunk Driving,Yes,Medium,High
+2024-05-11,21:43,Idukki,9.836994850677025,77.00186907410169,Clear,City Road,Low Light,Bike,80,4,Medium,Overspeeding,Yes,Medium,Medium
+2023-04-05,12:22,Idukki,9.885912368018621,77.01574472983357,Clear,City Road,Low Light,Car,100,3,High,Distracted Driving,No,Medium,Medium
+2023-06-27,04:54,Kozhikode,11.26103224278493,75.73730131706012,Rainy,Rural Road,Daylight,Truck,60,1,Low,Drunk Driving,Yes,Medium,Low
+2023-03-11,06:12,Idukki,9.876001661843613,76.98364726462876,Clear,Highway,Low Light,Bike,100,1,Medium,Overspeeding,Yes,Low,Low
+2023-09-29,21:41,Kottayam,9.549167094814115,76.51852869004735,Clear,City Road,Daylight,Bike,60,2,High,Drunk Driving,No,Low,Low
+2023-06-08,00:52,Kozhikode,11.228273287325255,75.81503892741289,Cloudy,Highway,Low Light,Bike,80,4,Medium,Distracted Driving,Yes,Medium,High
+2024-01-30,21:11,Palakkad,10.808469609914942,76.69410425569914,Clear,Highway,Low Light,Truck,80,2,Low,Distracted Driving,Yes,High,High
+2023-03-31,18:36,Malappuram,11.04097429424225,76.02614280325217,Foggy,Highway,Daylight,Truck,100,3,Medium,Road Condition,Yes,Low,Medium
+2024-07-14,19:09,Kottayam,9.555639198525672,76.56497543208212,Foggy,City Road,Daylight,Car,40,4,Low,Drunk Driving,Yes,Medium,Low
+2023-02-15,04:15,Kozhikode,11.299756321735716,75.7340448734423,Cloudy,City Road,Daylight,Truck,60,1,Low,Overspeeding,No,High,Low
+2024-06-10,03:31,Kozhikode,11.219641405266344,75.76375868830685,Rainy,City Road,Low Light,Bike,50,4,Medium,Road Condition,Yes,Low,High
+2024-03-25,10:14,Kollam,8.925530811643142,76.66259294700359,Foggy,Rural Road,Daylight,Car,50,3,Low,Drunk Driving,Yes,Medium,High
+2024-01-30,20:13,Alappuzha,9.511607844444532,76.35501354090381,Foggy,Rural Road,Night,Bike,50,1,High,Distracted Driving,Yes,Medium,Medium
+2023-10-29,11:33,Alappuzha,9.456848904914,76.29295320957466,Foggy,City Road,Night,Bike,60,3,Low,Overspeeding,No,Low,High
+2023-03-16,23:31,Kottayam,9.582640485153911,76.47891483830608,Rainy,Highway,Daylight,Car,100,4,High,Drunk Driving,No,Low,Medium
+2024-06-13,08:16,Kozhikode,11.231048440380539,75.74624548384426,Cloudy,Rural Road,Low Light,Bike,100,3,High,Bad Weather,Yes,Medium,High
+2024-09-16,15:13,Wayanad,11.653544883454979,76.13933596585628,Foggy,Highway,Night,Car,50,4,High,Distracted Driving,Yes,High,High
+2024-03-17,14:50,Alappuzha,9.47772679079196,76.36922576416417,Rainy,Highway,Low Light,Bike,100,2,High,Bad Weather,No,Medium,Low
+2023-08-25,18:14,Thiruvananthapuram,8.492136167514326,76.9618195742054,Cloudy,Rural Road,Night,Bike,100,1,Medium,Drunk Driving,Yes,Medium,Low
+2024-11-05,15:18,Idukki,9.82771197350872,76.98806436863559,Foggy,City Road,Daylight,Bike,40,2,Low,Bad Weather,No,High,Low
+2024-10-24,11:13,Kozhikode,11.263694861211992,75.75011831901978,Rainy,Rural Road,Night,Bus,100,1,Medium,Distracted Driving,No,Low,Medium
+2023-09-12,12:05,Kollam,8.882099395271018,76.59872862241485,Cloudy,City Road,Night,Truck,80,3,Medium,Distracted Driving,Yes,High,Medium
+2023-04-21,04:12,Idukki,9.86894293762676,76.95893485690479,Cloudy,Rural Road,Daylight,Truck,80,3,Medium,Distracted Driving,Yes,High,Low
+2024-11-14,17:22,Malappuram,11.04107606663618,76.06480856339994,Foggy,Rural Road,Low Light,Car,100,4,High,Distracted Driving,Yes,Low,High
+2024-05-29,09:16,Malappuram,11.053352582227722,76.06124996712232,Rainy,City Road,Night,Truck,60,2,Low,Overspeeding,Yes,Medium,Medium
+2024-01-02,08:41,Ernakulam,9.935311452649199,76.28003555722344,Clear,Highway,Daylight,Car,100,2,Medium,Bad Weather,No,Low,High
+2024-04-14,12:43,Thiruvananthapuram,8.516585741341698,76.97529295700409,Cloudy,Highway,Daylight,Bike,40,4,Medium,Road Condition,Yes,Medium,Low
+2023-11-07,11:02,Kottayam,9.562872908206355,76.5471084963552,Clear,Rural Road,Daylight,Truck,60,3,Low,Distracted Driving,Yes,High,Medium
+2023-08-11,11:02,Kottayam,9.607571443523286,76.54771880157216,Rainy,Highway,Daylight,Car,50,3,High,Distracted Driving,No,Medium,High
+2024-06-27,01:26,Kannur,11.847347548495627,75.32578141386468,Foggy,Highway,Low Light,Truck,50,4,High,Bad Weather,No,Medium,Medium
+2024-11-12,18:17,Kottayam,9.599021371655061,76.55018242516734,Cloudy,Highway,Low Light,Truck,80,4,Low,Bad Weather,No,High,Low
+2023-09-22,21:09,Ernakulam,9.94501301697293,76.29125418784716,Rainy,Highway,Daylight,Car,60,3,Medium,Distracted Driving,Yes,High,High
+2023-04-11,01:32,Thrissur,10.49844540556399,76.16853652707007,Foggy,Highway,Night,Truck,80,1,Low,Overspeeding,Yes,Medium,Low
+2024-11-20,10:33,Wayanad,11.725649285523604,76.16904414464285,Clear,Rural Road,Night,Car,40,3,High,Distracted Driving,Yes,Medium,High
+2023-10-17,09:36,Kannur,11.894831652621463,75.3360292299537,Cloudy,Rural Road,Low Light,Bus,60,4,Low,Bad Weather,Yes,Medium,High
+2023-03-04,07:00,Palakkad,10.804252277413257,76.70268495386951,Cloudy,Rural Road,Low Light,Bike,40,1,Low,Drunk Driving,Yes,Medium,Medium
+2024-10-12,22:23,Kozhikode,11.283097826220379,75.8299773406418,Foggy,Highway,Low Light,Bike,40,1,Low,Overspeeding,Yes,High,High
+2023-04-26,15:10,Malappuram,11.054153829939908,76.11545917815093,Cloudy,City Road,Night,Bike,40,4,High,Drunk Driving,Yes,Low,High
+2024-02-09,12:46,Thrissur,10.547246681865277,76.1760258864327,Cloudy,City Road,Daylight,Car,80,1,High,Bad Weather,No,Medium,Low
+2024-05-29,09:54,Kasaragod,12.543346461086527,75.0008671408034,Rainy,City Road,Low Light,Bus,60,3,Low,Drunk Driving,Yes,Low,High
+2023-03-25,22:47,Kasaragod,12.541609371743474,74.9597964233234,Cloudy,City Road,Night,Truck,80,1,High,Overspeeding,Yes,High,High
+2024-09-16,19:15,Wayanad,11.710194385361033,76.09193802353595,Clear,City Road,Low Light,Bike,80,3,Medium,Bad Weather,Yes,High,High
+2023-03-27,15:37,Kasaragod,12.487194411742653,74.94801409938809,Clear,Highway,Low Light,Bus,80,1,Medium,Overspeeding,No,Low,Low
+2024-11-23,11:38,Ernakulam,9.93385320717965,76.26755420216267,Foggy,City Road,Daylight,Bus,50,4,Low,Road Condition,No,High,Medium
+2024-04-15,07:29,Kasaragod,12.54787185530344,74.94866278394133,Foggy,Rural Road,Low Light,Car,60,4,High,Distracted Driving,No,High,Low
+2024-05-22,04:53,Kottayam,9.636531188708297,76.51578972654846,Rainy,Rural Road,Daylight,Truck,100,2,High,Road Condition,No,High,High
+2023-06-14,13:16,Alappuzha,9.517436183554628,76.29879953631914,Clear,Rural Road,Low Light,Truck,50,1,Medium,Drunk Driving,Yes,Low,Low
+2023-05-03,14:46,Kasaragod,12.520904629390245,74.94146162438285,Clear,Highway,Night,Truck,60,3,High,Overspeeding,Yes,High,High
+2024-02-14,23:04,Kozhikode,11.248909511915357,75.82007928451704,Rainy,City Road,Daylight,Truck,80,1,High,Distracted Driving,No,Medium,Medium
+2023-10-14,08:22,Ernakulam,9.956773137114864,76.26994372574467,Clear,Highway,Daylight,Bus,60,3,Low,Distracted Driving,No,Low,Medium
+2023-09-06,11:20,Malappuram,11.015244691330365,76.03326342199539,Clear,Rural Road,Low Light,Bus,50,2,High,Distracted Driving,No,High,Medium
+2023-02-04,13:20,Malappuram,11.029080853041796,76.1188390932645,Cloudy,Rural Road,Low Light,Bike,50,2,Low,Distracted Driving,No,Medium,Medium
+2024-02-08,22:23,Malappuram,11.082093766700103,76.06864926262189,Clear,Highway,Night,Bike,50,4,High,Distracted Driving,Yes,Medium,Low
+2023-08-26,13:14,Thiruvananthapuram,8.546495948269401,76.94973664861867,Cloudy,Highway,Low Light,Truck,80,4,Medium,Overspeeding,Yes,High,High
+2023-05-09,08:16,Pathanamthitta,9.264920543573123,76.7757820515331,Rainy,City Road,Daylight,Car,50,1,Low,Bad Weather,Yes,Low,Low
+2023-10-27,12:55,Palakkad,10.761515900731842,76.64568928304388,Rainy,Rural Road,Daylight,Truck,40,4,Low,Road Condition,Yes,Medium,Low
+2024-02-02,03:54,Kottayam,9.5522471348425,76.53124952130966,Rainy,Highway,Daylight,Car,50,3,Low,Overspeeding,Yes,High,High
+2024-05-02,14:01,Kannur,11.870637330870123,75.32045504288718,Cloudy,Highway,Night,Bike,60,2,High,Distracted Driving,Yes,Low,High
+2024-06-23,10:33,Ernakulam,10.017911216610655,76.26528248824185,Foggy,Highway,Daylight,Bike,80,4,High,Drunk Driving,Yes,Low,Medium
+2024-07-19,21:44,Kasaragod,12.478850440404212,74.95157231460195,Foggy,Rural Road,Daylight,Truck,60,4,High,Drunk Driving,No,Medium,High
+2023-04-08,15:01,Kozhikode,11.28870427406783,75.7378162009913,Rainy,Rural Road,Daylight,Truck,100,1,Low,Distracted Driving,No,Medium,Low
+2023-11-30,23:09,Pathanamthitta,9.230480502003077,76.78375812158782,Rainy,Rural Road,Low Light,Truck,40,4,High,Distracted Driving,No,High,High
+2023-11-25,20:14,Wayanad,11.692430203295974,76.12902904884031,Clear,Highway,Daylight,Truck,40,2,Medium,Bad Weather,No,Low,Low
+2024-05-10,00:00,Pathanamthitta,9.233267012309463,76.77589809051463,Foggy,Highway,Night,Bus,40,4,High,Drunk Driving,Yes,Low,Low
+2023-09-28,09:21,Alappuzha,9.469111741102424,76.36293563857414,Cloudy,City Road,Low Light,Car,40,4,Low,Drunk Driving,No,Medium,High
+2024-03-17,03:21,Kozhikode,11.273739718957925,75.7439390751926,Rainy,Highway,Night,Car,100,2,Medium,Road Condition,Yes,Low,High
+2024-08-17,07:01,Malappuram,11.076261882554668,76.06688112701009,Cloudy,Rural Road,Low Light,Bike,40,1,Medium,Drunk Driving,Yes,Low,Medium
+2023-03-09,13:43,Alappuzha,9.531880403640649,76.36882944058765,Rainy,City Road,Low Light,Bike,60,3,Medium,Overspeeding,Yes,High,Medium
+2023-12-05,22:34,Kollam,8.846541873476792,76.65315543093807,Clear,Highway,Low Light,Bus,100,3,High,Drunk Driving,No,Medium,Low
+2023-08-02,11:14,Kannur,11.827978480827817,75.40775230104796,Rainy,City Road,Low Light,Car,50,4,Medium,Road Condition,Yes,High,Medium
+2024-09-27,03:50,Kozhikode,11.307664639961194,75.76610868175455,Clear,Rural Road,Low Light,Bus,80,1,Medium,Road Condition,No,High,Medium
+2024-08-18,14:36,Kottayam,9.592337348551448,76.56742839828713,Foggy,City Road,Night,Bike,50,1,Low,Distracted Driving,Yes,Medium,High
+2024-07-25,01:29,Wayanad,11.70608070271398,76.15813319316192,Foggy,Highway,Low Light,Truck,80,4,Medium,Drunk Driving,Yes,Medium,Low
+2024-05-16,07:15,Malappuram,11.100343587713452,76.04126402735511,Clear,Highway,Daylight,Truck,50,1,Low,Bad Weather,Yes,High,Medium
+2023-03-11,10:24,Thrissur,10.568517572533938,76.20694731406896,Foggy,Highway,Night,Car,40,2,Low,Road Condition,No,High,Medium
+2024-08-04,02:57,Kottayam,9.588911857344034,76.55508679203363,Foggy,Highway,Daylight,Bike,50,3,Medium,Distracted Driving,No,High,High
+2023-04-12,13:09,Thrissur,10.550114233950255,76.2520289545097,Clear,Highway,Low Light,Truck,60,4,Low,Bad Weather,No,High,Low
+2023-08-16,17:25,Kollam,8.929922157894271,76.62241761471086,Rainy,City Road,Low Light,Car,50,4,Low,Overspeeding,Yes,Medium,Medium
+2023-05-29,19:24,Ernakulam,9.988196281797212,76.2538810222038,Foggy,Rural Road,Low Light,Car,80,1,High,Distracted Driving,Yes,Medium,Medium
+2024-10-19,14:56,Kozhikode,11.223822048918104,75.75998551554109,Clear,Rural Road,Daylight,Bike,50,2,High,Road Condition,No,High,Low
+2024-01-05,10:25,Idukki,9.886162288667151,76.97044635794217,Foggy,Highway,Low Light,Bus,100,2,Medium,Road Condition,No,Low,High
+2023-03-16,08:06,Wayanad,11.698929523832483,76.14733769690184,Foggy,Rural Road,Low Light,Bike,40,4,High,Drunk Driving,No,Low,Medium
+2023-03-04,06:53,Alappuzha,9.507791220875191,76.34779060427866,Cloudy,Rural Road,Low Light,Bike,40,2,Medium,Drunk Driving,Yes,High,Medium
+2023-07-11,21:54,Kasaragod,12.486141943633916,74.97402490560553,Clear,Rural Road,Low Light,Bus,80,3,Medium,Distracted Driving,No,Medium,High
+2024-08-15,06:37,Idukki,9.807046595313475,76.95047217072536,Foggy,Highway,Night,Bus,100,2,Low,Distracted Driving,Yes,High,High
+2023-10-24,08:12,Kannur,11.885702358479135,75.41760106340722,Rainy,Rural Road,Daylight,Car,100,1,Low,Road Condition,Yes,High,Medium
+2023-10-16,23:09,Wayanad,11.729364916950319,76.09587297480878,Foggy,Highway,Low Light,Bus,60,3,Low,Overspeeding,Yes,High,Medium
+2024-09-27,18:01,Pathanamthitta,9.275891654776798,76.81046705059136,Rainy,City Road,Low Light,Bike,100,4,High,Overspeeding,Yes,High,High
+2023-01-19,11:04,Alappuzha,9.460070016206693,76.3730901211879,Foggy,Rural Road,Low Light,Truck,50,1,Low,Distracted Driving,Yes,High,Low
+2024-07-30,00:21,Thiruvananthapuram,8.571123534148164,76.92189343842881,Rainy,Rural Road,Daylight,Bike,80,4,Low,Drunk Driving,Yes,Low,Low
+2024-01-04,17:57,Thiruvananthapuram,8.553817782625343,76.90954929897633,Rainy,Rural Road,Night,Bike,60,1,High,Drunk Driving,No,High,Low
+2024-05-24,20:10,Ernakulam,9.99096334400576,76.28709815616867,Foggy,Highway,Daylight,Bus,80,4,Medium,Overspeeding,No,High,Low
+2023-07-01,20:26,Pathanamthitta,9.221907595939848,76.78148132385168,Foggy,Highway,Night,Truck,40,3,Low,Drunk Driving,Yes,Low,High
+2023-01-11,00:59,Pathanamthitta,9.21672932708315,76.80596441363143,Foggy,Rural Road,Low Light,Bus,80,1,High,Road Condition,No,High,Medium
+2024-04-20,16:53,Kannur,11.862411035324984,75.3744293619342,Foggy,City Road,Night,Bus,100,2,High,Road Condition,No,Low,High
+2023-04-27,22:07,Palakkad,10.81348038853047,76.67594852889012,Rainy,City Road,Daylight,Bus,50,4,Medium,Bad Weather,No,High,Low
+2024-06-26,18:18,Kollam,8.884441182737172,76.58382925038234,Cloudy,Highway,Daylight,Car,60,2,Medium,Bad Weather,No,Low,Medium
+2024-05-13,16:35,Idukki,9.824030137959571,76.9757721098379,Foggy,City Road,Low Light,Truck,50,4,Low,Drunk Driving,Yes,Medium,Medium
+2023-09-09,04:51,Ernakulam,10.023031595782296,76.25341551471872,Clear,Highway,Daylight,Truck,80,4,Medium,Bad Weather,No,High,Low
+2023-03-06,07:41,Pathanamthitta,9.26784630020713,76.80432810866762,Clear,Rural Road,Low Light,Bus,60,3,Medium,Overspeeding,Yes,Low,Medium
+2024-07-25,16:55,Malappuram,11.018117534770074,76.0716959792559,Foggy,Highway,Night,Car,60,1,Low,Overspeeding,Yes,High,Medium
+2024-01-20,05:22,Palakkad,10.835664814323227,76.6116455715833,Foggy,City Road,Night,Bike,50,1,High,Overspeeding,Yes,High,High
+2024-11-25,03:01,Thrissur,10.500741342350828,76.26160611883986,Foggy,Highway,Daylight,Bike,80,4,Medium,Bad Weather,No,Medium,High
+2023-11-14,23:20,Pathanamthitta,9.272139933082158,76.81183462925637,Clear,City Road,Low Light,Truck,50,4,Low,Bad Weather,No,Low,High
+2023-03-24,04:09,Alappuzha,9.462321995634596,76.36313227972236,Foggy,Rural Road,Daylight,Truck,50,1,Low,Bad Weather,Yes,Low,High
+2024-09-14,15:33,Kozhikode,11.262895014176326,75.7361204250306,Cloudy,Highway,Low Light,Bike,40,4,Low,Overspeeding,Yes,Medium,High
+2024-10-17,21:44,Thiruvananthapuram,8.505775081469261,76.9705183759995,Rainy,Rural Road,Night,Bus,40,2,High,Road Condition,No,High,High
+2024-07-08,14:47,Kasaragod,12.509441524369402,74.96168637747478,Cloudy,Rural Road,Night,Bus,60,2,Medium,Drunk Driving,Yes,Low,High
+2024-09-18,22:38,Ernakulam,9.944674609005826,76.312024465538,Clear,City Road,Low Light,Truck,40,4,Low,Drunk Driving,Yes,High,Low
+2023-03-04,21:27,Malappuram,11.042984269302966,76.06558130508893,Cloudy,Highway,Low Light,Bus,50,3,Medium,Drunk Driving,Yes,Low,Medium
+2023-12-07,13:18,Idukki,9.877102038428387,76.91975552045541,Rainy,City Road,Night,Bike,80,2,Medium,Distracted Driving,No,Medium,High
+2024-08-03,17:09,Palakkad,10.765978353188528,76.63582288545939,Rainy,City Road,Daylight,Truck,60,3,Medium,Bad Weather,Yes,Medium,Medium
+2023-08-29,22:56,Palakkad,10.764670712160315,76.68909613204407,Cloudy,Highway,Night,Bike,60,3,High,Distracted Driving,No,Low,Low
+2024-07-12,21:46,Alappuzha,9.450969126468877,76.29756220156136,Cloudy,Highway,Low Light,Bus,40,3,Low,Bad Weather,No,Low,Low
+2024-04-28,20:02,Alappuzha,9.535514803078573,76.30965130658456,Rainy,City Road,Daylight,Bus,80,1,Medium,Drunk Driving,No,High,Low
+2024-08-15,18:04,Palakkad,10.823474686037018,76.69007152965106,Cloudy,Rural Road,Daylight,Bike,50,1,Medium,Drunk Driving,No,Medium,Medium
+2024-03-16,20:16,Thrissur,10.548253782587016,76.18200768096764,Foggy,City Road,Daylight,Car,60,1,High,Road Condition,Yes,High,Medium
+2023-12-13,22:45,Wayanad,11.719943402415772,76.14643588534251,Clear,Highway,Low Light,Car,80,2,Medium,Overspeeding,No,High,High
+2023-04-25,02:50,Alappuzha,9.505570614790333,76.34288484703117,Clear,City Road,Daylight,Bus,50,1,Low,Bad Weather,No,Medium,High
+2023-07-07,08:07,Palakkad,10.756382404387137,76.62996899271818,Rainy,City Road,Low Light,Bike,40,1,Medium,Drunk Driving,Yes,Low,High
+2023-11-09,00:16,Kottayam,9.640416489834779,76.52846185793639,Foggy,Rural Road,Daylight,Bus,80,1,Medium,Bad Weather,Yes,Medium,Medium
+2023-06-21,07:15,Kollam,8.876658249612666,76.65289547643782,Rainy,Rural Road,Daylight,Car,50,3,Low,Distracted Driving,No,Low,Medium
+2023-05-29,19:22,Idukki,9.832026381345775,76.98505276222845,Rainy,City Road,Daylight,Truck,50,1,Medium,Distracted Driving,Yes,Medium,Low
+2023-11-04,15:59,Kannur,11.88533312474567,75.35385084748556,Foggy,Rural Road,Night,Bike,60,4,High,Road Condition,No,Low,High
+2023-11-20,09:17,Wayanad,11.712998908929965,76.16412398944699,Cloudy,Highway,Daylight,Bus,60,3,Low,Road Condition,Yes,Medium,Low
+2023-07-13,18:05,Idukki,9.804237215368488,76.94041412487768,Rainy,Rural Road,Daylight,Truck,40,4,High,Drunk Driving,No,Low,High
+2024-01-14,02:37,Wayanad,11.672001238392117,76.0913057846082,Rainy,Highway,Night,Bike,80,4,Low,Drunk Driving,No,Medium,Medium
+2023-05-20,22:43,Thrissur,10.539251889307875,76.22173467658808,Cloudy,Highway,Night,Truck,80,2,Low,Bad Weather,Yes,Low,Low
+2024-10-28,14:54,Alappuzha,9.530710215152984,76.36112074675897,Foggy,Highway,Low Light,Car,50,1,Medium,Overspeeding,Yes,High,High
+2023-10-02,01:31,Kollam,8.93559132065727,76.56475477528664,Clear,City Road,Low Light,Bus,100,2,Low,Overspeeding,No,Medium,Low
+2024-07-24,06:23,Ernakulam,9.940137201679228,76.3018119200295,Rainy,Rural Road,Daylight,Bike,100,1,Medium,Bad Weather,Yes,High,Medium
+2023-08-11,05:25,Kannur,11.908774870602095,75.32708301229805,Rainy,City Road,Night,Bus,60,3,Medium,Bad Weather,Yes,Low,Low
+2023-06-01,22:08,Palakkad,10.81535085264871,76.6225539909828,Foggy,Rural Road,Daylight,Car,50,4,High,Distracted Driving,No,Medium,High
+2023-04-09,17:54,Thiruvananthapuram,8.493190054352382,76.96740821510122,Rainy,Rural Road,Daylight,Truck,80,3,Medium,Distracted Driving,Yes,Low,High
+2023-01-26,12:53,Kannur,11.917258764361515,75.34740927180634,Rainy,Rural Road,Daylight,Car,100,2,Medium,Overspeeding,Yes,Medium,High
+2024-08-12,07:40,Kollam,8.847483079679506,76.61533958709003,Foggy,Highway,Low Light,Bike,100,2,Medium,Road Condition,Yes,High,Medium
+2023-08-18,08:35,Ernakulam,10.00822469156204,76.31328821191072,Rainy,Rural Road,Night,Bike,100,1,Medium,Distracted Driving,Yes,Medium,Medium
+2023-11-27,03:01,Kottayam,9.575494916775899,76.48382877360392,Clear,Rural Road,Low Light,Bus,80,1,High,Drunk Driving,No,Medium,Medium
+2023-11-16,09:15,Thrissur,10.50492713793354,76.23867192824228,Foggy,Rural Road,Daylight,Bike,80,1,Low,Overspeeding,Yes,High,Low
+2023-10-24,20:10,Kottayam,9.570385463269819,76.5554173114887,Clear,Highway,Night,Bus,60,3,High,Distracted Driving,Yes,Medium,High
+2023-02-21,12:55,Malappuram,11.01191705246911,76.03240916077672,Clear,Highway,Night,Bike,60,4,Medium,Drunk Driving,Yes,High,Medium
+2024-10-09,10:30,Alappuzha,9.532843221807639,76.36535990452565,Cloudy,Highway,Night,Bus,60,3,High,Distracted Driving,Yes,High,High
+2023-06-04,09:59,Idukki,9.833213330618007,76.92778388065099,Cloudy,Highway,Daylight,Car,50,3,High,Bad Weather,No,Medium,Medium
+2023-05-27,22:30,Idukki,9.799895962639766,76.96208090061711,Cloudy,Highway,Night,Car,40,1,Low,Distracted Driving,Yes,Medium,Medium
+2024-02-28,18:42,Alappuzha,9.490967344789718,76.37798483377028,Rainy,Highway,Night,Bike,40,4,Low,Overspeeding,Yes,Low,Medium
+2024-04-05,17:28,Pathanamthitta,9.305225734668669,76.81961678644598,Rainy,Highway,Night,Bus,50,2,Medium,Bad Weather,Yes,Low,Low
+2023-06-14,00:50,Wayanad,11.680940745176592,76.11201756298082,Rainy,Rural Road,Night,Bike,100,3,High,Distracted Driving,Yes,Medium,High
+2023-11-01,21:03,Kannur,11.886526611429236,75.40046735207693,Clear,City Road,Night,Bike,40,2,Medium,Drunk Driving,Yes,Medium,High
+2024-04-14,22:08,Kottayam,9.581308763451915,76.49862430812206,Cloudy,Rural Road,Daylight,Car,50,2,Medium,Bad Weather,Yes,Low,Medium
+2024-01-04,11:19,Kannur,11.917559692555436,75.37242892438732,Foggy,Highway,Daylight,Bike,40,1,Low,Bad Weather,Yes,High,High
+2024-03-24,11:31,Kollam,8.882736062650876,76.62437571183871,Rainy,Rural Road,Low Light,Bus,100,1,Low,Drunk Driving,No,High,Medium
+2024-08-04,02:42,Thrissur,10.55724176806531,76.21016112621247,Rainy,Rural Road,Daylight,Truck,80,3,Low,Distracted Driving,No,High,Medium
+2023-06-04,11:00,Thrissur,10.516092314613214,76.17565939182897,Cloudy,Highway,Night,Truck,60,4,Medium,Overspeeding,No,High,Medium
+2024-01-04,15:18,Alappuzha,9.517751040550046,76.29805976356441,Rainy,City Road,Night,Car,50,1,Low,Bad Weather,Yes,High,High
+2023-07-19,06:36,Idukki,9.818078457074973,76.97231984971356,Clear,City Road,Low Light,Truck,50,1,High,Overspeeding,Yes,Medium,High
+2024-05-25,13:05,Pathanamthitta,9.220639301285892,76.74062972365115,Foggy,Rural Road,Night,Truck,50,3,High,Drunk Driving,Yes,Medium,High
+2024-02-15,03:40,Kozhikode,11.279138619968686,75.73771732083861,Clear,Rural Road,Night,Car,40,4,Medium,Distracted Driving,Yes,High,Low
+2024-01-03,15:32,Kannur,11.890943703317959,75.34402356866667,Foggy,Rural Road,Daylight,Bike,80,4,Medium,Road Condition,No,High,High
+2024-07-26,03:05,Palakkad,10.76081681622016,76.62013808341891,Foggy,Highway,Night,Bus,100,2,Medium,Overspeeding,Yes,High,High
+2024-02-23,21:46,Kasaragod,12.53991262073748,74.96946475836523,Clear,Rural Road,Low Light,Truck,40,2,Low,Distracted Driving,Yes,Medium,Low
+2023-07-03,20:58,Kollam,8.914390202893319,76.58925682462397,Cloudy,Rural Road,Low Light,Bus,60,4,Low,Bad Weather,No,Low,High
+2024-10-17,03:51,Pathanamthitta,9.280681116511506,76.83011227253472,Clear,Highway,Night,Truck,60,1,Low,Road Condition,Yes,Medium,High
+2024-04-25,08:56,Wayanad,11.707791442507414,76.11421265853043,Foggy,City Road,Daylight,Bus,60,3,Medium,Bad Weather,No,Medium,High
+2024-03-07,11:00,Alappuzha,9.458193295776494,76.32676362181647,Clear,City Road,Low Light,Car,40,1,Medium,Distracted Driving,Yes,Low,Low
+2023-07-29,05:51,Thrissur,10.49322619319702,76.26138339335627,Foggy,Highway,Daylight,Car,100,1,Low,Road Condition,No,Low,Low
+2024-07-22,18:45,Alappuzha,9.522980807990736,76.33463133856235,Rainy,City Road,Daylight,Car,60,4,Medium,Drunk Driving,No,Low,Low
+2024-02-27,03:15,Alappuzha,9.490736863924859,76.35954044673645,Clear,City Road,Low Light,Truck,40,2,Low,Road Condition,No,Low,Medium
+2024-04-28,06:06,Kozhikode,11.292589382563616,75.76144732153365,Cloudy,Rural Road,Night,Bus,100,1,Low,Road Condition,No,High,Low
+2024-01-03,12:45,Kozhikode,11.249170441066008,75.81139243600926,Foggy,Rural Road,Night,Car,60,1,Low,Bad Weather,No,Medium,Low
+2023-01-30,12:20,Alappuzha,9.521684086487426,76.37029314959108,Clear,Highway,Low Light,Bus,60,2,High,Overspeeding,Yes,Low,Low
+2024-01-19,04:08,Idukki,9.860013330696622,76.95957242520623,Cloudy,City Road,Daylight,Bike,100,3,Medium,Road Condition,Yes,Medium,Medium
+2024-04-04,01:30,Thiruvananthapuram,8.51713229342452,76.94958218892911,Foggy,Highway,Low Light,Car,80,2,High,Road Condition,No,High,Low
+2024-01-31,03:38,Alappuzha,9.484213069061608,76.35594042223431,Cloudy,Highway,Night,Bike,100,2,Medium,Overspeeding,No,Medium,Medium
+2023-07-07,02:09,Kannur,11.915749460744475,75.33748905314653,Rainy,Highway,Low Light,Bike,50,2,Medium,Distracted Driving,Yes,High,Medium
+2024-06-23,20:49,Alappuzha,9.517067231578844,76.3644001068021,Clear,City Road,Night,Bike,80,1,Medium,Distracted Driving,Yes,Low,High
+2024-09-21,12:37,Kozhikode,11.247004448540517,75.82088983619745,Cloudy,Rural Road,Night,Bike,40,4,Medium,Drunk Driving,No,High,Medium
+2024-04-14,18:06,Thiruvananthapuram,8.48020081650087,76.94283686570547,Clear,City Road,Night,Bus,40,4,High,Distracted Driving,No,Low,Low
+2023-10-24,00:39,Kollam,8.86460189988467,76.58098631165966,Cloudy,Rural Road,Daylight,Car,50,3,Low,Drunk Driving,No,High,Low
+2024-07-23,07:23,Thiruvananthapuram,8.550379847186411,76.94022682480268,Cloudy,City Road,Low Light,Bike,100,3,Low,Bad Weather,No,Low,High
+2024-11-27,16:52,Kasaragod,12.508398986537317,74.94411356915519,Foggy,City Road,Low Light,Truck,40,1,High,Distracted Driving,Yes,High,Low
+2024-09-21,10:28,Thrissur,10.481331468220006,76.17165221060449,Clear,Rural Road,Daylight,Bus,40,2,Low,Overspeeding,No,Medium,Medium
+2024-07-19,00:45,Wayanad,11.656842664567643,76.10269548411044,Rainy,Highway,Night,Bus,40,2,High,Drunk Driving,Yes,Medium,Medium
+2024-04-30,19:12,Kasaragod,12.473863966011361,74.94305445007772,Clear,Rural Road,Daylight,Car,40,4,Low,Distracted Driving,Yes,Low,High
+2023-08-07,06:15,Malappuram,11.02251779917459,76.07922131392989,Clear,Rural Road,Low Light,Bus,80,1,Medium,Bad Weather,Yes,Medium,High
+2024-09-04,23:26,Alappuzha,9.506559772041593,76.32416995518953,Rainy,Highway,Daylight,Bike,100,4,Medium,Road Condition,Yes,High,Low
+2023-04-19,06:08,Kottayam,9.563400669556644,76.53348888735121,Clear,Rural Road,Low Light,Bike,40,2,Low,Bad Weather,Yes,Medium,Low
+2023-05-24,19:06,Alappuzha,9.542877972177385,76.37900411755464,Clear,City Road,Night,Bike,80,3,Low,Drunk Driving,No,High,Medium
+2023-02-07,07:51,Kozhikode,11.249193179865816,75.74412433527583,Clear,Rural Road,Night,Car,60,1,High,Road Condition,No,Medium,Medium
+2023-09-21,13:59,Kasaragod,12.505694871076132,75.00058417017476,Foggy,City Road,Low Light,Truck,50,1,High,Road Condition,No,Medium,Medium
+2024-02-06,13:57,Alappuzha,9.48445578059089,76.29378699990448,Clear,Highway,Night,Truck,100,1,High,Road Condition,No,High,Low
+2023-01-22,08:35,Malappuram,11.04995149624376,76.02874665836468,Clear,City Road,Low Light,Bus,80,3,Medium,Road Condition,Yes,Low,High
+2023-01-30,21:32,Kollam,8.862990395947886,76.63321461564394,Cloudy,Highway,Night,Truck,40,1,Low,Distracted Driving,No,High,Low
+2024-04-01,16:00,Kozhikode,11.246366155541542,75.79924522327187,Foggy,Rural Road,Daylight,Truck,100,3,Medium,Road Condition,Yes,Medium,Low
+2023-02-10,23:30,Kollam,8.939309421791203,76.63686388419072,Foggy,Highway,Daylight,Bus,60,1,Low,Road Condition,Yes,High,Low
+2024-10-24,23:51,Alappuzha,9.46466474925584,76.30212344138825,Foggy,Highway,Daylight,Bike,80,4,Low,Road Condition,Yes,High,Low
+2024-01-18,10:16,Malappuram,11.036622715994241,76.07765221019551,Clear,Rural Road,Daylight,Car,60,3,Medium,Road Condition,Yes,High,High
+2023-12-17,05:05,Kasaragod,12.520259069312187,74.969837363865,Cloudy,Highway,Low Light,Bus,50,4,Low,Bad Weather,Yes,Medium,Low
+2023-01-18,02:05,Ernakulam,9.932576261502653,76.29972310513223,Cloudy,Rural Road,Low Light,Truck,80,4,High,Overspeeding,Yes,Low,High
+2024-07-22,18:31,Pathanamthitta,9.228083375325905,76.82981746082659,Cloudy,City Road,Night,Truck,40,3,Medium,Road Condition,Yes,Medium,Medium
+2024-11-03,16:30,Kannur,11.913284705329973,75.32710977796017,Cloudy,City Road,Night,Bike,50,2,Medium,Drunk Driving,No,Low,Medium
+2023-09-02,13:14,Wayanad,11.636874516488096,76.12211409684807,Foggy,City Road,Night,Bike,100,1,Low,Distracted Driving,No,Medium,High
+2023-08-16,05:40,Kozhikode,11.250590264377637,75.78761196768845,Rainy,Rural Road,Night,Truck,100,1,Low,Distracted Driving,No,High,Low
+2024-04-28,09:33,Thiruvananthapuram,8.499537894785927,76.90566522110605,Rainy,Highway,Low Light,Car,50,2,Low,Overspeeding,Yes,Medium,Low
+2023-12-22,10:30,Malappuram,11.028816551076545,76.11320860982481,Cloudy,Rural Road,Low Light,Car,50,3,Low,Overspeeding,No,Low,High
+2023-12-06,09:03,Kozhikode,11.289423401957812,75.82697400834485,Cloudy,Rural Road,Night,Car,40,2,High,Bad Weather,No,Medium,Medium
+2024-09-21,03:51,Palakkad,10.831830948937087,76.68065015250953,Foggy,Rural Road,Daylight,Bike,40,4,Medium,Overspeeding,No,Low,Low
+2024-03-17,01:37,Thiruvananthapuram,8.480394588738356,76.93508560188097,Clear,Highway,Low Light,Truck,100,2,Low,Road Condition,No,Low,High
+2023-06-23,14:38,Alappuzha,9.522937568022805,76.35904207223216,Clear,City Road,Daylight,Bike,100,2,Low,Bad Weather,Yes,Medium,High
+2024-02-08,00:15,Wayanad,11.679386304674905,76.1558954539205,Rainy,City Road,Daylight,Truck,40,1,Medium,Distracted Driving,No,High,Medium
+2024-05-25,05:31,Thiruvananthapuram,8.561241804086892,76.90523748060977,Cloudy,Rural Road,Low Light,Truck,60,3,Medium,Road Condition,Yes,Low,Medium
+2023-07-20,01:35,Ernakulam,10.00390580923856,76.26733620175509,Rainy,City Road,Daylight,Truck,60,2,High,Overspeeding,No,High,High
+2023-02-19,16:47,Thrissur,10.483736185728334,76.19217144496318,Clear,Highway,Night,Car,60,3,High,Overspeeding,Yes,High,Medium
+2024-09-01,14:01,Palakkad,10.762601045349479,76.61465690329176,Foggy,City Road,Low Light,Bus,50,4,Low,Bad Weather,Yes,High,Low
+2023-12-23,11:45,Malappuram,11.023624104004837,76.1109333746089,Clear,Rural Road,Daylight,Truck,100,2,High,Overspeeding,Yes,Low,Medium
+2023-08-30,13:38,Kollam,8.846868301216697,76.58294361647052,Cloudy,City Road,Daylight,Bike,80,4,High,Road Condition,Yes,High,Medium
+2023-02-11,06:34,Idukki,9.866638927103342,76.94570828281174,Rainy,Highway,Low Light,Bus,100,1,High,Drunk Driving,Yes,Low,Low
+2023-11-14,19:06,Idukki,9.861776056450203,76.98020504808612,Rainy,City Road,Night,Bike,100,1,High,Distracted Driving,No,Medium,Low
+2023-07-14,17:50,Idukki,9.800149861257372,77.00786326397463,Foggy,Highway,Low Light,Truck,80,2,High,Distracted Driving,Yes,Low,High
+2024-05-16,07:44,Kannur,11.86917789100583,75.33939822401166,Rainy,Highway,Night,Car,40,2,Medium,Overspeeding,No,Low,Low
+2024-06-07,18:34,Palakkad,10.803720081901982,76.67781158463846,Clear,Rural Road,Daylight,Bike,80,3,High,Overspeeding,No,Medium,Low
+2023-05-12,19:53,Kottayam,9.637038369346197,76.48493840408335,Foggy,Highway,Night,Bike,40,2,Low,Distracted Driving,Yes,Medium,High
+2024-03-27,06:47,Kozhikode,11.255486317808982,75.80495573696501,Cloudy,Highway,Low Light,Bus,50,3,Low,Drunk Driving,No,Medium,Low
+2024-04-17,22:37,Pathanamthitta,9.269867770932327,76.78984243231642,Cloudy,Rural Road,Daylight,Truck,60,4,High,Drunk Driving,Yes,Low,Medium
+2024-03-24,18:24,Kollam,8.857527090588372,76.65240120841781,Rainy,Rural Road,Low Light,Bus,50,3,Low,Drunk Driving,Yes,Low,Low
+2023-10-27,19:42,Thiruvananthapuram,8.519616908783718,76.94681147348854,Cloudy,City Road,Low Light,Car,100,1,Low,Distracted Driving,Yes,High,Low
+2023-04-24,04:55,Ernakulam,9.98735387115859,76.25065089344257,Cloudy,Rural Road,Low Light,Bus,80,4,Low,Road Condition,Yes,High,Medium
+2024-04-18,05:41,Wayanad,11.677118298249605,76.16933559925474,Foggy,Rural Road,Low Light,Truck,80,1,High,Drunk Driving,Yes,Medium,High
+2024-11-14,20:07,Kottayam,9.568462456110051,76.55675368880176,Rainy,City Road,Night,Truck,100,3,Low,Distracted Driving,No,Medium,High
+2023-08-21,17:35,Idukki,9.880812306270746,76.97503539058063,Foggy,Rural Road,Low Light,Truck,60,3,High,Road Condition,No,Low,Medium
+2024-06-27,10:17,Wayanad,11.680702825633151,76.10063800975183,Rainy,City Road,Low Light,Truck,60,3,High,Drunk Driving,Yes,Medium,Medium
+2024-08-17,03:54,Kannur,11.881955478745278,75.36377232787076,Cloudy,Highway,Low Light,Truck,80,4,Medium,Road Condition,No,High,Low
+2024-02-15,01:45,Malappuram,11.04409049837918,76.0248539273893,Clear,Highway,Daylight,Bus,50,4,Medium,Road Condition,No,High,Medium
+2024-02-02,15:52,Kannur,11.82464844576206,75.39818159544363,Foggy,Highway,Night,Bus,100,1,High,Overspeeding,Yes,Low,High
+2024-11-08,04:15,Kollam,8.850240804250543,76.623289584604,Rainy,Rural Road,Daylight,Car,80,2,High,Road Condition,Yes,Low,High
+2024-05-25,05:08,Kasaragod,12.547790374535081,74.97137812072823,Foggy,City Road,Low Light,Truck,80,2,Medium,Drunk Driving,No,Low,High
+2024-01-07,22:04,Palakkad,10.822187167732539,76.69417478080392,Foggy,Highway,Night,Car,80,1,Low,Overspeeding,No,Low,High
+2023-03-23,16:22,Kottayam,9.610695734091925,76.4977765421647,Rainy,City Road,Daylight,Truck,50,4,Medium,Overspeeding,No,Low,High
+2024-07-23,08:44,Pathanamthitta,9.268596989823536,76.79866917903331,Cloudy,Rural Road,Night,Bike,50,3,Low,Road Condition,No,High,High
+2023-11-07,11:35,Wayanad,11.645507694033647,76.08580279246061,Rainy,Rural Road,Low Light,Car,60,3,High,Bad Weather,No,Medium,Medium
+2024-09-12,17:54,Malappuram,11.02468499246798,76.06806220018498,Foggy,Rural Road,Night,Bike,100,3,Medium,Overspeeding,No,Medium,High
+2023-05-21,02:26,Kasaragod,12.454587411831307,74.93991821285627,Clear,Rural Road,Daylight,Car,80,1,Medium,Distracted Driving,Yes,High,Medium
+2023-05-14,06:32,Thiruvananthapuram,8.517282778431811,76.95656340604432,Foggy,Highway,Night,Car,60,1,Low,Bad Weather,Yes,Low,High
+2024-06-09,03:18,Kozhikode,11.253339566909936,75.7330634281171,Cloudy,Rural Road,Night,Car,100,2,Low,Bad Weather,Yes,Low,Medium
+2023-11-04,18:59,Wayanad,11.716558498702533,76.13014884478868,Rainy,City Road,Low Light,Bike,60,2,High,Distracted Driving,No,High,Low
+2023-11-20,11:51,Idukki,9.83550454940684,76.95350679043639,Cloudy,Highway,Low Light,Bus,80,2,High,Overspeeding,Yes,Low,Medium
+2023-03-03,19:51,Thiruvananthapuram,8.503791013081804,76.93235865925362,Foggy,City Road,Daylight,Car,50,3,Medium,Bad Weather,Yes,Low,High
+2023-01-22,13:32,Kasaragod,12.524095110720074,75.02505382610036,Rainy,Rural Road,Night,Bus,50,3,Low,Bad Weather,No,Low,Low
+2024-01-07,20:07,Wayanad,11.679175977813504,76.17374428273304,Clear,Highway,Night,Bus,80,2,Low,Bad Weather,No,Low,Low
+2024-08-12,18:52,Kasaragod,12.531776965607088,74.98833827744859,Foggy,Highway,Night,Car,60,2,Medium,Overspeeding,Yes,Low,Medium
+2024-02-14,14:31,Kasaragod,12.489498113186785,74.97504701804036,Foggy,Rural Road,Night,Bike,60,1,Medium,Drunk Driving,No,Medium,Medium
+2023-05-09,00:35,Kasaragod,12.515461331665879,74.99495371825704,Foggy,City Road,Night,Bus,60,2,Low,Road Condition,No,Medium,Medium
+2024-02-20,05:42,Kottayam,9.619015398772763,76.49150466537105,Rainy,City Road,Night,Bus,50,2,Low,Road Condition,No,Medium,Medium
+2023-10-16,21:35,Palakkad,10.829447568295514,76.60992106835616,Foggy,City Road,Low Light,Bike,40,3,Medium,Drunk Driving,Yes,Low,High
+2024-04-24,10:00,Kannur,11.911338799451157,75.34158720621235,Clear,Highway,Daylight,Bus,40,2,High,Drunk Driving,Yes,Medium,Medium
+2023-01-06,22:14,Thrissur,10.543778532485995,76.23914109189704,Clear,City Road,Daylight,Truck,50,2,Low,Drunk Driving,No,Low,High
+2024-02-07,07:24,Ernakulam,9.997088432165887,76.25699152012126,Rainy,City Road,Low Light,Bike,50,4,High,Overspeeding,No,Medium,Medium
+2023-04-20,22:55,Ernakulam,9.95601731282982,76.28402839480859,Foggy,City Road,Night,Truck,100,4,High,Overspeeding,No,Medium,Low
+2023-11-10,16:12,Kollam,8.923385089657392,76.60862394305423,Rainy,City Road,Low Light,Bus,80,1,Medium,Drunk Driving,Yes,High,High
+2023-01-22,09:36,Idukki,9.819058930124807,76.93332416209364,Cloudy,City Road,Night,Bike,80,4,Medium,Overspeeding,No,Low,Medium
+2024-06-10,00:41,Thrissur,10.564335607685436,76.23864607657667,Foggy,City Road,Night,Car,40,3,Low,Bad Weather,Yes,High,Low
+2023-03-07,16:49,Idukki,9.800334477696957,76.98149192173454,Clear,Highway,Low Light,Bike,50,2,Low,Bad Weather,Yes,Medium,Low
+2024-05-16,09:00,Malappuram,11.047021623253201,76.10993356966885,Rainy,Highway,Daylight,Bus,80,3,Medium,Overspeeding,Yes,High,Low
+2024-01-02,06:10,Malappuram,11.073392711830083,76.06822486862671,Cloudy,City Road,Low Light,Car,80,1,Low,Road Condition,No,Medium,Low
+2023-12-11,08:05,Palakkad,10.765212656615482,76.6993777077099,Foggy,Highway,Low Light,Bike,80,4,Low,Drunk Driving,No,Low,High
+2024-05-26,16:24,Malappuram,11.034654246659812,76.06255606741654,Foggy,City Road,Low Light,Bike,60,4,High,Bad Weather,Yes,Low,High
+2024-10-26,20:09,Wayanad,11.725232973959388,76.17066105088654,Foggy,City Road,Low Light,Truck,40,1,Medium,Drunk Driving,No,Low,Medium
+2023-02-03,12:17,Kollam,8.93838110546266,76.6568091505343,Foggy,City Road,Night,Bike,60,2,Medium,Bad Weather,Yes,High,Medium
+2024-03-08,10:30,Kottayam,9.57031257867032,76.55849347163827,Rainy,Rural Road,Daylight,Car,40,1,Medium,Drunk Driving,Yes,High,High
+2023-09-16,07:24,Kannur,11.89666602560549,75.33445587003612,Rainy,City Road,Night,Bike,80,2,Low,Overspeeding,Yes,Low,Low
+2023-07-18,00:49,Thiruvananthapuram,8.56044185400511,76.88778152175941,Cloudy,Highway,Daylight,Truck,40,1,High,Bad Weather,Yes,Low,Low
+2023-01-11,10:38,Kottayam,9.628699320040953,76.56460681108562,Foggy,Rural Road,Low Light,Bike,60,3,Medium,Bad Weather,Yes,High,Low
+2024-03-08,13:22,Kannur,11.885407591521213,75.33989783401836,Foggy,City Road,Night,Truck,60,4,Medium,Bad Weather,No,Medium,High
+2024-03-23,14:10,Kasaragod,12.472314750105303,74.95486116232212,Foggy,Highway,Daylight,Bike,40,4,Low,Overspeeding,No,Low,Low
+2024-07-01,19:39,Malappuram,11.017742537511275,76.10445011812546,Rainy,Rural Road,Night,Truck,40,2,High,Road Condition,Yes,High,High
+2023-04-25,05:28,Pathanamthitta,9.291234436733657,76.80638713358054,Cloudy,Highway,Night,Truck,50,3,High,Distracted Driving,Yes,High,Medium
+2024-02-18,06:24,Kasaragod,12.51965485681018,75.02762669202856,Cloudy,Rural Road,Low Light,Bus,40,4,High,Distracted Driving,No,Medium,High
+2023-09-18,09:19,Thrissur,10.551757811338195,76.21551497070527,Foggy,Highway,Night,Car,100,4,Medium,Bad Weather,Yes,Medium,High
+2024-08-25,23:44,Kottayam,9.57429712669248,76.48013277322006,Rainy,Rural Road,Night,Bus,80,4,Low,Drunk Driving,Yes,High,High
+2024-10-23,19:06,Thrissur,10.568392888570143,76.20640243312882,Clear,Highway,Night,Truck,40,1,Low,Bad Weather,Yes,High,High
+2024-09-27,05:16,Idukki,9.873016771687753,77.00359928766787,Clear,City Road,Low Light,Bike,50,2,Medium,Drunk Driving,Yes,High,Low
+2024-05-15,00:15,Thiruvananthapuram,8.506634720308186,76.90654663841153,Rainy,City Road,Low Light,Bus,100,1,Low,Drunk Driving,Yes,Low,Medium
+2023-06-18,01:32,Kasaragod,12.488511589587725,74.94583231582685,Foggy,City Road,Daylight,Bus,60,1,High,Drunk Driving,No,High,Medium
+2024-11-06,17:57,Alappuzha,9.514633567565284,76.31412251071791,Cloudy,City Road,Daylight,Car,80,3,High,Drunk Driving,Yes,Low,Medium
+2024-06-27,13:45,Kollam,8.844726461725548,76.63662484269932,Rainy,Highway,Daylight,Bike,50,1,Medium,Road Condition,Yes,Low,Low
+2024-06-15,17:57,Pathanamthitta,9.235467270920314,76.78822437412643,Clear,City Road,Daylight,Bike,50,3,High,Road Condition,No,High,Low
+2023-12-25,02:22,Kollam,8.880118029963125,76.6022964637262,Foggy,City Road,Low Light,Bike,50,2,Low,Distracted Driving,Yes,Low,High
+2023-11-22,23:56,Alappuzha,9.465230721224154,76.305149668117,Cloudy,City Road,Low Light,Car,50,1,Low,Road Condition,Yes,Low,High
+2023-01-14,23:47,Wayanad,11.692303176079557,76.13677369583789,Clear,City Road,Night,Bus,80,3,Low,Bad Weather,No,High,Medium
+2024-06-18,07:35,Idukki,9.86602122044133,76.92667893025298,Foggy,City Road,Daylight,Truck,80,1,High,Drunk Driving,No,Medium,Low
+2023-08-20,21:55,Thiruvananthapuram,8.553557287168589,76.94395698617568,Foggy,Highway,Low Light,Car,100,2,Low,Road Condition,Yes,Medium,Medium
+2023-03-12,05:07,Kasaragod,12.514720411335086,74.97738179477126,Cloudy,Highway,Low Light,Truck,60,2,Medium,Drunk Driving,No,High,High
+2023-09-12,12:36,Alappuzha,9.504909144524559,76.32204700056214,Rainy,City Road,Daylight,Bus,40,2,Low,Drunk Driving,Yes,Low,High
+2023-06-29,08:14,Thiruvananthapuram,8.528472284637989,76.89427092741086,Foggy,Highway,Night,Bike,60,3,Medium,Distracted Driving,Yes,High,Medium
+2024-04-30,23:24,Kozhikode,11.30726600521686,75.80680766070081,Cloudy,City Road,Night,Truck,50,4,Low,Distracted Driving,No,Low,High
+2023-12-15,04:48,Kannur,11.908722378301578,75.37874346839386,Cloudy,City Road,Night,Car,50,2,High,Bad Weather,Yes,Low,Medium
+2023-11-25,07:12,Pathanamthitta,9.243946281298573,76.7831330353691,Clear,Highway,Night,Bus,80,4,Low,Road Condition,No,Medium,Medium
+2023-08-25,08:27,Ernakulam,10.004914451364938,76.31931450017117,Foggy,City Road,Low Light,Truck,100,1,High,Distracted Driving,Yes,High,Low
+2023-10-23,19:17,Ernakulam,10.017024725028524,76.33094948954897,Foggy,Rural Road,Night,Car,40,3,Low,Drunk Driving,No,High,Low
+2024-05-30,09:27,Alappuzha,9.530796938864805,76.29607917199738,Clear,City Road,Night,Car,60,3,High,Overspeeding,No,Low,Low
+2023-12-15,06:29,Thiruvananthapuram,8.475672912140306,76.96234605077382,Rainy,Highway,Daylight,Bus,40,3,High,Distracted Driving,Yes,Medium,Low
+2024-04-13,05:17,Alappuzha,9.537202659860714,76.34791413998036,Rainy,Rural Road,Night,Bike,80,1,High,Distracted Driving,Yes,Low,Medium
+2024-11-09,05:44,Kasaragod,12.486265550631792,75.00616590018873,Foggy,Highway,Night,Bus,60,1,High,Road Condition,Yes,Low,Medium
+2024-10-25,12:58,Thrissur,10.527101014681387,76.25067368540299,Cloudy,Rural Road,Low Light,Bike,40,4,Low,Road Condition,No,High,High
+2023-08-24,17:15,Idukki,9.827562854815147,76.99058476544566,Rainy,Highway,Low Light,Car,50,1,High,Overspeeding,Yes,High,Medium
+2024-07-28,20:10,Wayanad,11.695558111556313,76.16382080140775,Cloudy,Highway,Night,Truck,100,4,Low,Distracted Driving,Yes,High,Medium
+2023-11-24,16:41,Wayanad,11.654896524405837,76.1525538057247,Clear,Highway,Daylight,Bus,40,1,Low,Bad Weather,Yes,High,Medium
+2024-09-23,16:49,Kollam,8.911221130670706,76.59340954858969,Clear,Rural Road,Daylight,Bike,100,3,Low,Bad Weather,Yes,High,Low
+2024-03-08,20:56,Ernakulam,10.026731343256776,76.26785946459701,Foggy,City Road,Daylight,Car,50,3,High,Drunk Driving,Yes,Medium,Medium
+2024-05-24,23:27,Thiruvananthapuram,8.566869655080058,76.92270608882197,Clear,Highway,Night,Bike,40,2,Low,Road Condition,No,Low,Low
+2024-02-14,19:26,Wayanad,11.718876810339754,76.15055093951844,Foggy,City Road,Low Light,Car,50,4,Medium,Road Condition,Yes,Low,Medium
+2023-06-03,00:24,Kozhikode,11.231102673726358,75.75905733407293,Clear,Highway,Night,Car,50,3,High,Road Condition,No,High,Low
+2024-05-15,22:19,Wayanad,11.664412196697278,76.1529618364254,Rainy,City Road,Daylight,Bike,40,1,Medium,Drunk Driving,No,Medium,High
+2024-01-23,19:30,Thiruvananthapuram,8.494487759526535,76.95783652629598,Foggy,Rural Road,Daylight,Car,40,1,Medium,Distracted Driving,No,High,Low
+2023-03-25,22:43,Kasaragod,12.451589857267424,75.01197938823945,Foggy,Rural Road,Night,Truck,40,1,Medium,Overspeeding,No,High,High
+2023-05-12,08:05,Kasaragod,12.508587848557987,74.99739045447407,Foggy,Rural Road,Daylight,Bike,60,3,Low,Drunk Driving,Yes,High,Low
+2023-05-23,14:26,Palakkad,10.791531904978443,76.67633815734868,Rainy,Highway,Low Light,Car,80,4,Low,Road Condition,Yes,Medium,Medium
+2024-10-12,02:41,Idukki,9.873653161701704,77.0002686559338,Cloudy,Highway,Low Light,Bus,100,2,Low,Overspeeding,No,High,High
+2023-02-01,11:50,Thrissur,10.526839385913066,76.21644397694321,Foggy,Rural Road,Night,Bus,80,1,Low,Bad Weather,Yes,Medium,High
+2023-08-17,10:55,Kasaragod,12.47908454287075,75.0131581930698,Clear,Rural Road,Low Light,Bus,100,4,High,Overspeeding,No,High,Medium
+2023-05-03,06:33,Thiruvananthapuram,8.504997101225097,76.97027711333384,Clear,City Road,Low Light,Bus,40,1,Low,Drunk Driving,No,High,Low
+2023-03-03,10:50,Ernakulam,9.975039057797373,76.27370700293335,Rainy,City Road,Daylight,Truck,100,3,Low,Distracted Driving,No,High,Low
+2023-03-28,18:31,Idukki,9.832640909640286,76.95414932846411,Cloudy,Highway,Low Light,Bus,100,1,Medium,Overspeeding,Yes,Medium,Medium
+2023-03-13,22:39,Kollam,8.86544571400077,76.59755631245922,Clear,City Road,Night,Car,80,4,Low,Overspeeding,No,Low,High
+2023-06-13,14:23,Idukki,9.863209877010267,76.93460710939874,Clear,Highway,Night,Car,60,3,High,Drunk Driving,Yes,Medium,High
+2024-09-04,06:38,Wayanad,11.66006614649522,76.1196082235425,Clear,Rural Road,Night,Car,60,1,Low,Drunk Driving,Yes,Medium,Medium
+2023-06-04,18:03,Kasaragod,12.462063898948005,75.00440677234988,Foggy,City Road,Night,Bus,40,3,Low,Overspeeding,Yes,Medium,Medium
+2024-01-01,07:03,Thrissur,10.501823868785255,76.2237696059778,Cloudy,Rural Road,Daylight,Bus,60,1,Medium,Road Condition,No,High,Medium
+2023-10-06,16:24,Ernakulam,9.97698655922349,76.31355995918516,Rainy,Rural Road,Daylight,Car,40,1,Low,Road Condition,Yes,High,Medium
+2024-01-23,17:28,Pathanamthitta,9.275686472183873,76.77487752714498,Foggy,Rural Road,Daylight,Car,50,2,Low,Overspeeding,No,Low,Medium
+2024-05-11,18:41,Malappuram,11.09297274689821,76.0951168341671,Rainy,Highway,Low Light,Truck,100,3,Medium,Drunk Driving,No,High,High
+2023-03-13,02:30,Kasaragod,12.457703915323577,74.98436214571774,Cloudy,Highway,Night,Bike,40,3,High,Distracted Driving,Yes,Low,Low
+2024-04-27,14:42,Thrissur,10.520380686476967,76.23695326412879,Cloudy,City Road,Daylight,Car,80,3,Low,Road Condition,No,Medium,Low
+2024-04-25,08:36,Thiruvananthapuram,8.5166522767192,76.98392228187672,Foggy,Highway,Low Light,Truck,50,3,High,Road Condition,Yes,High,Low
+2024-04-07,02:49,Kottayam,9.611416712139212,76.50314699087168,Cloudy,Highway,Daylight,Car,80,4,Medium,Overspeeding,No,High,Medium
+2024-05-20,03:38,Kannur,11.920818186344576,75.38573370061712,Clear,City Road,Daylight,Bus,60,1,Low,Drunk Driving,Yes,High,High
+2024-06-27,15:23,Palakkad,10.753342672575839,76.69450337434625,Foggy,City Road,Night,Bike,60,3,Low,Overspeeding,No,Low,Low
+2024-01-28,01:25,Kasaragod,12.520599225240888,75.01439427631146,Foggy,Highway,Low Light,Bus,100,3,Low,Overspeeding,No,High,Low
+2023-12-04,08:59,Wayanad,11.711644452276207,76.10605217582575,Clear,Highway,Night,Bus,60,2,Low,Overspeeding,No,Low,Medium
+2024-07-25,07:27,Idukki,9.83759699806585,76.92023057701105,Cloudy,City Road,Low Light,Truck,60,1,High,Overspeeding,Yes,Medium,Low
+2024-05-20,00:42,Palakkad,10.805146905425621,76.66553731723455,Rainy,City Road,Low Light,Bike,100,3,High,Drunk Driving,Yes,High,High
+2024-09-18,00:20,Wayanad,11.689722573378393,76.15230474073365,Rainy,Rural Road,Low Light,Bus,50,3,Low,Drunk Driving,No,Low,Medium
+2023-07-13,09:15,Idukki,9.833439248580055,76.94542586235222,Cloudy,City Road,Low Light,Car,50,3,High,Overspeeding,Yes,Low,High
+2024-04-15,03:29,Kasaragod,12.52991338717618,74.94484222357755,Clear,City Road,Daylight,Bus,50,3,High,Road Condition,No,High,Medium
+2023-08-22,04:53,Kannur,11.910914462995256,75.41506008764411,Foggy,Rural Road,Night,Car,100,1,Low,Road Condition,Yes,Medium,Medium
+2024-03-13,21:40,Malappuram,11.089832590454927,76.06791471214294,Clear,Highway,Daylight,Truck,100,4,Medium,Road Condition,Yes,High,Low
+2023-04-30,03:51,Ernakulam,9.98524000065587,76.34394009512592,Foggy,City Road,Low Light,Car,100,3,Low,Distracted Driving,Yes,High,High
+2024-06-27,21:13,Kottayam,9.622791954548518,76.56671056570572,Clear,Rural Road,Daylight,Car,60,3,Low,Road Condition,Yes,Low,High
+2023-01-05,05:37,Malappuram,11.07764524357602,76.10436673327365,Foggy,Rural Road,Low Light,Bus,60,1,High,Road Condition,No,Medium,Low
+2023-09-08,06:07,Kasaragod,12.50032641056843,74.95090666070014,Rainy,Rural Road,Low Light,Bus,60,4,Low,Overspeeding,No,High,High
+2023-07-11,15:11,Kasaragod,12.468742837403228,75.03208180139808,Cloudy,Highway,Low Light,Bike,60,4,Low,Overspeeding,Yes,High,Low
+2024-02-26,14:24,Thiruvananthapuram,8.57313358698242,76.9737362212841,Rainy,Highway,Low Light,Truck,80,3,Medium,Distracted Driving,No,Medium,Medium
+2023-01-03,18:25,Pathanamthitta,9.279700838501032,76.7554442903753,Foggy,Highway,Low Light,Car,100,1,High,Road Condition,Yes,Medium,Medium
+2024-10-13,06:15,Alappuzha,9.536286202196234,76.31465227462282,Rainy,Highway,Low Light,Bus,100,2,Low,Road Condition,No,Low,Low
+2024-11-25,14:10,Pathanamthitta,9.303983543337095,76.74213869586038,Foggy,Highway,Low Light,Bike,50,2,Medium,Overspeeding,Yes,High,High
+2023-09-25,22:53,Pathanamthitta,9.253883737199285,76.80646777834626,Rainy,Rural Road,Low Light,Bus,80,2,Low,Distracted Driving,No,Low,Low
+2023-05-25,10:02,Palakkad,10.745617102809126,76.69686407232872,Rainy,Highway,Night,Bus,50,1,Low,Overspeeding,Yes,Medium,High
+2023-03-12,07:14,Pathanamthitta,9.28501145796514,76.7452901233965,Cloudy,Highway,Daylight,Truck,60,1,Low,Drunk Driving,Yes,High,Low
+2023-11-04,23:10,Kannur,11.831766117735341,75.37975850583473,Cloudy,Highway,Low Light,Bike,40,1,High,Road Condition,No,High,Low
+2024-06-10,07:07,Kasaragod,12.528446868449402,75.01454896358015,Rainy,Rural Road,Night,Bike,60,1,High,Road Condition,No,Medium,High
+2024-03-30,18:19,Malappuram,11.016008530241272,76.03350710597906,Clear,City Road,Low Light,Truck,40,3,Medium,Bad Weather,No,High,Medium
+2024-05-27,01:32,Wayanad,11.709613663348629,76.16941528090987,Foggy,City Road,Night,Bike,80,1,High,Distracted Driving,No,High,Medium
+2024-10-10,06:52,Malappuram,11.051460143244134,76.04886109774588,Foggy,Rural Road,Daylight,Car,40,2,Low,Bad Weather,No,Low,Low
+2024-03-03,18:33,Ernakulam,10.011002363326268,76.31046535045358,Foggy,Rural Road,Low Light,Car,100,1,High,Drunk Driving,Yes,Low,Medium
+2023-02-15,20:57,Malappuram,11.047848902364514,76.06847435899007,Rainy,City Road,Night,Bike,80,2,Medium,Drunk Driving,Yes,Low,High
+2024-05-25,02:29,Kannur,11.853741155869901,75.34459551035597,Clear,City Road,Daylight,Bike,40,2,High,Road Condition,Yes,Medium,Low
+2024-11-01,06:49,Alappuzha,9.52122142433377,76.31356717423256,Rainy,Highway,Daylight,Bike,100,2,High,Overspeeding,No,Medium,High
+2024-08-10,20:12,Thiruvananthapuram,8.484278918705295,76.95330908996267,Clear,Rural Road,Daylight,Bike,50,1,Medium,Bad Weather,No,High,High
+2023-11-20,05:30,Idukki,9.891750979940438,76.92028141431494,Rainy,City Road,Daylight,Car,100,3,Medium,Overspeeding,No,Medium,Medium
+2024-07-06,10:03,Palakkad,10.788848458409694,76.63718727040832,Rainy,Highway,Low Light,Truck,100,3,Medium,Overspeeding,Yes,Medium,High
+2024-04-16,04:06,Kollam,8.934436217162276,76.5945054360628,Rainy,Highway,Night,Truck,100,2,Medium,Distracted Driving,No,High,Medium
+2023-05-01,19:57,Idukki,9.874727604916071,76.99674723506709,Cloudy,Highway,Daylight,Car,80,1,Low,Distracted Driving,No,Low,Low
+2024-02-05,05:10,Pathanamthitta,9.241381280324358,76.7587194391165,Rainy,Highway,Daylight,Car,100,1,High,Road Condition,Yes,Medium,Low
+2023-03-15,00:56,Palakkad,10.831128161325903,76.6309556010348,Cloudy,Rural Road,Night,Bus,100,3,Medium,Bad Weather,Yes,Medium,Medium
+2023-10-14,19:57,Kottayam,9.564925225264691,76.48951319130532,Clear,Highway,Low Light,Bus,40,2,Medium,Distracted Driving,Yes,High,High
+2023-02-02,09:14,Wayanad,11.648853507335907,76.17116790500825,Cloudy,City Road,Night,Bike,50,3,Low,Bad Weather,Yes,Low,High
+2023-09-15,07:47,Kozhikode,11.241070332271493,75.8259185099564,Foggy,City Road,Night,Bike,100,1,Low,Drunk Driving,Yes,Medium,Low
+2024-05-19,08:20,Malappuram,11.097966580772873,76.09741471097703,Foggy,Rural Road,Daylight,Car,100,4,Medium,Overspeeding,Yes,High,Medium
+2023-05-18,23:38,Thiruvananthapuram,8.510715221168324,76.96903224507125,Rainy,Highway,Low Light,Bus,50,2,Low,Road Condition,No,Low,Low
+2023-05-15,21:39,Kollam,8.909431493334838,76.59670657263702,Clear,Rural Road,Low Light,Bus,100,2,Medium,Distracted Driving,No,High,Medium
+2023-09-17,10:14,Idukki,9.823390239990283,76.985993796875,Foggy,City Road,Daylight,Car,80,2,High,Drunk Driving,No,Low,Medium
+2023-10-01,06:50,Palakkad,10.77647685906619,76.63232807821043,Rainy,Rural Road,Night,Bike,50,1,Low,Bad Weather,No,Low,High
+2024-07-14,17:27,Ernakulam,9.975147500562944,76.34864643316615,Cloudy,City Road,Low Light,Bike,60,3,Medium,Bad Weather,Yes,High,High
+2023-07-09,03:54,Idukki,9.84081160934243,76.98763682520772,Foggy,City Road,Night,Car,100,3,High,Overspeeding,Yes,Low,High
+2024-07-12,21:42,Ernakulam,9.96886621802394,76.27570871375967,Cloudy,City Road,Daylight,Car,60,3,Low,Bad Weather,Yes,High,Low
+2024-04-02,07:07,Ernakulam,9.971637052948113,76.29967902162942,Cloudy,Highway,Night,Car,40,3,High,Overspeeding,Yes,Low,Low
+2023-08-02,12:51,Palakkad,10.788773977868258,76.62754443269827,Cloudy,Rural Road,Night,Bike,40,1,Low,Drunk Driving,No,Low,Medium
+2023-03-19,15:02,Wayanad,11.711469649253697,76.10192715003522,Rainy,City Road,Night,Car,40,1,High,Drunk Driving,No,Medium,Low
+2024-01-03,01:35,Kottayam,9.626831061740225,76.51303160712156,Clear,City Road,Low Light,Truck,40,3,High,Bad Weather,No,High,Medium
+2023-04-03,21:24,Kollam,8.885461375210916,76.66300242023519,Foggy,Highway,Night,Car,50,3,Medium,Drunk Driving,No,High,Medium
+2024-10-20,06:38,Thrissur,10.53737200487953,76.25844139573981,Clear,City Road,Night,Car,80,1,Medium,Bad Weather,No,Low,Low
+2024-09-05,06:59,Pathanamthitta,9.269158244441323,76.80270158879962,Cloudy,Highway,Night,Truck,60,1,Low,Overspeeding,Yes,Medium,High
+2024-11-22,03:47,Pathanamthitta,9.24814348420569,76.75933952909689,Cloudy,Highway,Daylight,Bus,80,2,Low,Overspeeding,No,Medium,Low
+2023-01-20,08:07,Thrissur,10.577033938368533,76.1931195917737,Clear,Highway,Low Light,Car,60,3,High,Overspeeding,No,High,High
+2023-07-02,01:25,Ernakulam,10.028386932425287,76.3299988428933,Cloudy,City Road,Low Light,Car,60,1,Low,Drunk Driving,Yes,Medium,High
+2023-09-30,00:59,Kasaragod,12.513758273972023,75.00686012945893,Rainy,City Road,Low Light,Truck,80,1,Low,Distracted Driving,No,Low,Medium
+2023-02-21,17:00,Kollam,8.920388628290484,76.62255343342987,Cloudy,City Road,Daylight,Bus,60,4,Low,Distracted Driving,Yes,Medium,High
+2023-08-06,22:58,Malappuram,11.008309869971562,76.04373446226846,Cloudy,Highway,Daylight,Bus,50,3,High,Bad Weather,No,Medium,Medium
+2023-06-05,01:28,Palakkad,10.833134600376281,76.65069064241649,Clear,City Road,Low Light,Bus,50,1,High,Overspeeding,No,Medium,High
+2023-07-13,09:34,Kasaragod,12.4714038698468,74.96814436443513,Clear,City Road,Daylight,Bus,60,3,High,Road Condition,Yes,Medium,Medium
+2024-10-03,21:15,Thrissur,10.531251437664478,76.21218576955211,Foggy,Rural Road,Low Light,Bike,80,3,High,Distracted Driving,No,Low,Medium
+2023-08-08,08:32,Wayanad,11.684472664948728,76.17038024885998,Clear,Highway,Low Light,Bus,80,1,Medium,Bad Weather,Yes,High,Low
+2023-05-10,07:34,Alappuzha,9.489060510001421,76.38420730760403,Foggy,Highway,Night,Bike,40,4,Medium,Overspeeding,No,High,High
+2023-10-01,18:29,Kottayam,9.55897148852478,76.50532160398853,Foggy,City Road,Low Light,Truck,100,1,High,Road Condition,Yes,Low,High
+2023-02-28,11:23,Pathanamthitta,9.3041989072956,76.77549125090368,Cloudy,City Road,Night,Truck,100,1,Medium,Road Condition,No,High,Medium
+2024-04-08,23:27,Kottayam,9.576675599152201,76.4802204403627,Clear,Rural Road,Daylight,Bus,50,4,Low,Road Condition,No,High,High
+2023-06-28,21:20,Thiruvananthapuram,8.570569380095748,76.90475416235556,Foggy,City Road,Night,Bus,50,2,Low,Road Condition,No,Medium,Medium
+2024-01-09,16:05,Kozhikode,11.275283736667959,75.79641122412126,Clear,City Road,Daylight,Bus,80,3,High,Bad Weather,Yes,Low,High
+2023-11-18,19:08,Kannur,11.88901389653409,75.37916849317318,Rainy,City Road,Daylight,Truck,80,2,High,Drunk Driving,Yes,Low,Low
+2024-11-03,06:10,Wayanad,11.73470672163114,76.13490359775717,Cloudy,Rural Road,Night,Bike,60,1,High,Distracted Driving,Yes,Low,Low
+2024-10-02,02:23,Ernakulam,10.013561075705518,76.27419583742325,Rainy,Rural Road,Daylight,Car,100,3,Medium,Bad Weather,No,High,High
+2023-04-22,12:22,Ernakulam,10.005748850735802,76.3211801604101,Foggy,Highway,Low Light,Bus,100,1,Medium,Overspeeding,Yes,High,Medium
+2024-09-30,10:08,Thrissur,10.572179351242596,76.17023542578791,Rainy,Highway,Night,Bus,50,2,High,Distracted Driving,Yes,High,High
+2024-06-04,13:01,Kannur,11.899167341583617,75.34369951090702,Clear,Highway,Low Light,Bus,50,1,High,Drunk Driving,No,Low,Low
+2023-11-27,11:00,Thiruvananthapuram,8.5154007210599,76.94316877227476,Cloudy,Rural Road,Low Light,Truck,50,4,High,Road Condition,No,Medium,Low
+2023-04-01,01:58,Palakkad,10.808591874841833,76.69467526124038,Rainy,Highway,Low Light,Car,50,2,Low,Drunk Driving,No,Medium,Medium
+2024-02-27,22:39,Thiruvananthapuram,8.543988993379562,76.96813025235996,Cloudy,Rural Road,Daylight,Bus,50,3,Low,Overspeeding,No,Low,Medium
+2024-05-11,18:00,Wayanad,11.664130198802676,76.12290600332189,Cloudy,Highway,Night,Bike,40,3,Medium,Overspeeding,Yes,Low,Low
+2023-10-28,14:49,Idukki,9.871524100600016,76.97164269310855,Foggy,City Road,Daylight,Car,60,1,Low,Bad Weather,No,Medium,Medium
+2023-01-02,19:09,Kozhikode,11.244211935955885,75.82678093506274,Foggy,Highway,Daylight,Car,60,2,High,Bad Weather,No,High,High
+2024-09-20,11:10,Kollam,8.889104707843254,76.63997767333073,Foggy,Highway,Daylight,Car,40,4,Low,Overspeeding,No,Low,Medium
+2023-11-06,07:01,Alappuzha,9.492443808065772,76.36352980042483,Clear,Rural Road,Low Light,Truck,80,3,Low,Distracted Driving,No,Low,Medium
+2023-11-19,20:19,Pathanamthitta,9.312608180670145,76.75727881153904,Cloudy,City Road,Low Light,Car,50,4,Low,Drunk Driving,Yes,Medium,Medium
+2024-01-22,05:01,Kollam,8.875396323682013,76.65504889134426,Rainy,Highway,Daylight,Truck,100,1,High,Overspeeding,No,Low,High
+2023-04-23,23:09,Thrissur,10.499978417289347,76.20875496175833,Cloudy,City Road,Daylight,Truck,60,2,Medium,Overspeeding,No,High,Low
+2023-07-02,16:07,Thrissur,10.547876481956665,76.19337426894158,Rainy,Highway,Night,Truck,40,4,Low,Overspeeding,Yes,High,Low
+2023-07-05,23:45,Kozhikode,11.246401829023169,75.77885962249844,Rainy,Rural Road,Daylight,Bike,100,4,Low,Overspeeding,No,High,Low
+2023-06-24,06:42,Pathanamthitta,9.215250313347502,76.80847299125608,Rainy,Highway,Daylight,Bike,40,2,Medium,Overspeeding,No,Medium,Low
+2024-03-30,19:12,Kannur,11.832155751584967,75.38716316866774,Cloudy,Highway,Daylight,Car,80,2,High,Road Condition,No,Medium,Medium
+2023-04-05,23:32,Thrissur,10.528698623288498,76.24538826871171,Clear,City Road,Low Light,Truck,100,1,Medium,Distracted Driving,Yes,Low,Medium
+2024-09-26,12:48,Pathanamthitta,9.276655563617604,76.82051659938352,Clear,Highway,Night,Bike,80,3,Low,Road Condition,No,High,Low
+2023-05-07,22:22,Palakkad,10.737025017144411,76.62635064684395,Foggy,Rural Road,Daylight,Truck,50,3,High,Distracted Driving,No,High,High
+2024-07-13,20:33,Malappuram,11.042450956736932,76.06439724127783,Clear,Highway,Low Light,Bike,60,2,Medium,Distracted Driving,Yes,Medium,High
+2023-08-27,04:46,Palakkad,10.833103711495056,76.60584166852212,Rainy,Highway,Daylight,Bus,100,3,Medium,Distracted Driving,No,Low,High
+2024-05-18,18:07,Kozhikode,11.236877419901186,75.75070570007507,Clear,Rural Road,Night,Truck,80,1,Low,Drunk Driving,Yes,Medium,Medium
+2024-01-12,16:48,Alappuzha,9.4848958025799,76.36370527115544,Rainy,City Road,Night,Bus,100,4,Low,Bad Weather,No,High,Low
+2023-05-24,16:29,Ernakulam,10.03127243585857,76.32428280302342,Foggy,Highway,Low Light,Car,50,2,Medium,Distracted Driving,No,Low,Medium
+2023-05-27,12:43,Pathanamthitta,9.287256115687414,76.7682404009772,Foggy,Highway,Daylight,Car,80,4,High,Distracted Driving,No,High,High
+2023-08-15,23:42,Kannur,11.86813257005739,75.37770986143386,Cloudy,City Road,Night,Bike,100,4,Medium,Bad Weather,No,Medium,Low
+2023-04-07,22:49,Idukki,9.880186661867512,76.95762646484665,Foggy,Highway,Night,Truck,100,4,High,Drunk Driving,Yes,Medium,Medium
+2023-01-31,21:53,Alappuzha,9.481884376280039,76.36168510268921,Foggy,Rural Road,Night,Bus,100,3,Medium,Distracted Driving,Yes,High,Low
+2023-04-07,17:09,Kasaragod,12.470341140416057,74.98189543529475,Foggy,City Road,Night,Car,60,2,High,Overspeeding,Yes,Medium,Medium
+2024-07-19,17:00,Palakkad,10.825544813242846,76.657994085581,Clear,Rural Road,Daylight,Bike,60,2,High,Road Condition,No,High,Medium
+2023-10-29,07:29,Malappuram,11.070120879741888,76.06514105833492,Foggy,City Road,Daylight,Bus,40,1,Low,Distracted Driving,Yes,Low,High
+2024-05-09,06:50,Thrissur,10.507982275532443,76.1875013072502,Clear,Highway,Low Light,Car,80,2,Low,Drunk Driving,Yes,High,High
+2024-07-05,10:12,Idukki,9.852062767436003,76.93998792620953,Foggy,City Road,Night,Bus,80,4,Medium,Drunk Driving,Yes,High,Medium
+2023-09-08,14:28,Thrissur,10.479515944680658,76.21567638882085,Cloudy,City Road,Night,Bus,50,4,Medium,Road Condition,No,Low,High
+2023-02-24,18:51,Thrissur,10.562805195801095,76.2096261524555,Rainy,City Road,Daylight,Car,60,1,Medium,Drunk Driving,No,Low,Low
+2023-06-29,17:21,Alappuzha,9.52895192578307,76.36275455602717,Rainy,City Road,Low Light,Truck,80,2,Low,Overspeeding,Yes,High,Medium
+2024-06-30,11:14,Wayanad,11.67678979792613,76.1265688754208,Cloudy,Highway,Night,Truck,80,1,Low,Road Condition,No,Medium,Medium
+2024-08-14,09:46,Alappuzha,9.489903302420508,76.3577282860085,Cloudy,Rural Road,Low Light,Bike,80,4,Low,Overspeeding,No,High,Low
+2023-11-25,04:48,Kannur,11.896719722449904,75.391364514599,Rainy,Highway,Daylight,Truck,80,3,High,Drunk Driving,No,Medium,High
+2023-12-17,10:28,Malappuram,11.086709153104602,76.06491093145448,Rainy,City Road,Night,Car,60,2,High,Overspeeding,Yes,High,Low
+2024-08-18,10:12,Alappuzha,9.467238348723548,76.36295463061033,Foggy,Highway,Night,Bike,80,3,Medium,Road Condition,No,High,Low
+2024-01-01,09:33,Thiruvananthapuram,8.556221793826449,76.9742474998097,Foggy,Highway,Low Light,Bike,60,3,Low,Road Condition,Yes,Low,High
+2023-05-20,03:53,Thrissur,10.547329940056496,76.26375260763201,Clear,Rural Road,Daylight,Car,100,2,Low,Road Condition,Yes,Medium,Low
+2023-07-18,07:50,Thiruvananthapuram,8.567648731179903,76.96550152792554,Foggy,Highway,Night,Truck,40,2,High,Road Condition,No,High,Medium
+2023-09-14,23:11,Idukki,9.820162577852509,76.93637898354525,Clear,Highway,Low Light,Truck,100,3,Medium,Drunk Driving,No,Low,High
+2023-09-22,14:37,Kottayam,9.596213263251725,76.50586008351507,Clear,City Road,Daylight,Truck,100,1,High,Distracted Driving,No,High,Medium
+2023-12-30,15:36,Kannur,11.893166435794324,75.39361055446685,Clear,City Road,Night,Bike,80,1,Low,Drunk Driving,Yes,High,Low
+2023-03-08,06:38,Kozhikode,11.290312022121904,75.7754898556241,Clear,Rural Road,Low Light,Car,80,1,Medium,Distracted Driving,No,Medium,Low
+2024-03-07,06:39,Kannur,11.836919302447534,75.38948014507619,Clear,Highway,Low Light,Bike,80,4,Medium,Overspeeding,No,Medium,Medium
+2023-07-16,02:31,Kottayam,9.584564711812618,76.49701031729093,Clear,Highway,Low Light,Bus,60,4,Medium,Overspeeding,No,High,Low
+2024-10-29,03:12,Ernakulam,10.002099431710764,76.33693723051897,Rainy,Rural Road,Daylight,Car,40,4,Medium,Overspeeding,Yes,Low,High
+2023-07-21,07:20,Ernakulam,9.974721908565943,76.32084050369475,Foggy,Rural Road,Night,Bus,60,1,Low,Road Condition,Yes,Medium,Medium
+2024-04-12,03:50,Kannur,11.827169608416122,75.3528390860449,Foggy,Rural Road,Daylight,Bus,80,2,High,Drunk Driving,Yes,Low,Medium
+2024-04-18,19:43,Palakkad,10.766964890220155,76.62518268150976,Foggy,Highway,Low Light,Bus,80,4,High,Bad Weather,No,Low,High
+2024-11-15,16:43,Alappuzha,9.509146230282173,76.3494951741309,Foggy,City Road,Low Light,Car,80,3,Medium,Bad Weather,Yes,Medium,Low
+2024-04-03,23:04,Kannur,11.83276002055334,75.38326072728846,Foggy,Rural Road,Night,Car,60,3,Medium,Drunk Driving,No,High,Low
+2023-06-07,12:07,Kollam,8.84833857196079,76.60561926080084,Clear,Rural Road,Daylight,Truck,50,3,Medium,Drunk Driving,No,High,High
+2023-06-27,12:24,Kollam,8.872925750655112,76.62067315278055,Clear,Highway,Night,Bike,100,1,Medium,Bad Weather,No,Low,Medium
+2023-08-09,06:10,Kannur,11.826696418941538,75.3748287435016,Rainy,Rural Road,Daylight,Car,50,4,Low,Road Condition,No,Medium,Low
+2023-01-13,04:31,Pathanamthitta,9.244601099006035,76.78944062732262,Cloudy,Highway,Low Light,Car,80,3,High,Distracted Driving,No,Medium,Low
+2024-09-01,06:41,Alappuzha,9.486487653934162,76.31758997365225,Cloudy,Highway,Night,Bus,60,2,Low,Distracted Driving,Yes,Medium,Medium
+2024-06-15,02:32,Palakkad,10.800248700639955,76.66349011648596,Clear,City Road,Daylight,Bike,100,4,Medium,Overspeeding,No,High,Medium
+2024-03-26,23:55,Idukki,9.863192522662388,76.95880761890646,Foggy,City Road,Daylight,Car,100,2,Medium,Distracted Driving,Yes,Low,Low
+2024-06-23,14:32,Alappuzha,9.463113577499238,76.33312795914384,Rainy,Rural Road,Night,Truck,50,3,High,Overspeeding,Yes,Low,High
+2023-01-15,07:46,Kasaragod,12.461304105303231,75.036631424033,Cloudy,Rural Road,Night,Bus,60,2,High,Bad Weather,Yes,Medium,Medium
+2024-02-10,10:50,Thiruvananthapuram,8.487759725310854,76.89142912332511,Rainy,City Road,Daylight,Truck,50,3,Medium,Bad Weather,Yes,High,High
+2023-11-18,09:32,Pathanamthitta,9.268922247793578,76.78444117516284,Clear,City Road,Night,Car,60,3,Medium,Bad Weather,No,High,Low
+2024-08-04,20:14,Kasaragod,12.466069421756165,75.03081746475866,Rainy,Rural Road,Night,Truck,80,3,Medium,Drunk Driving,Yes,High,Low
+2023-07-09,00:18,Kasaragod,12.473609733586892,75.00138844102518,Rainy,City Road,Daylight,Bike,50,4,Medium,Bad Weather,No,High,High
+2024-02-16,02:24,Pathanamthitta,9.231550926486058,76.74718690573944,Cloudy,Highway,Night,Car,80,1,High,Bad Weather,Yes,High,Medium
+2023-03-20,16:40,Kozhikode,11.223835825339064,75.76558112294948,Foggy,Rural Road,Daylight,Bike,40,4,High,Drunk Driving,Yes,High,Medium
+2023-02-14,18:44,Ernakulam,9.93817396494177,76.2740650912389,Clear,Rural Road,Night,Bus,60,1,Medium,Overspeeding,Yes,Medium,Medium
+2023-03-20,15:46,Wayanad,11.677274425566617,76.11918756574606,Cloudy,City Road,Low Light,Truck,40,3,Low,Road Condition,Yes,Low,High
+2024-09-05,15:29,Malappuram,11.029846812606669,76.07856923288522,Cloudy,Rural Road,Low Light,Car,100,4,Low,Distracted Driving,Yes,High,Medium
+2024-04-07,17:47,Thrissur,10.511829809932404,76.24876368731285,Clear,Highway,Daylight,Bike,60,1,High,Bad Weather,No,High,Low
+2023-03-31,17:38,Kollam,8.903928007654546,76.65865693997883,Clear,City Road,Daylight,Car,80,2,Low,Road Condition,Yes,High,Low
+2023-07-28,03:31,Kollam,8.875091872189728,76.58712781172619,Rainy,Rural Road,Daylight,Car,60,4,Low,Drunk Driving,Yes,High,Medium
+2023-03-24,14:17,Ernakulam,9.962787926211375,76.34909749669865,Clear,City Road,Night,Bus,80,1,Low,Bad Weather,No,High,Low
+2024-05-18,08:04,Kozhikode,11.229650140271852,75.77027426759506,Clear,Rural Road,Daylight,Bike,60,3,Medium,Road Condition,No,Medium,Medium
+2024-07-21,00:40,Thrissur,10.546124820962694,76.18549910073082,Rainy,Highway,Night,Car,100,1,Low,Drunk Driving,No,Low,Low
+2024-10-15,19:48,Pathanamthitta,9.261049161918928,76.78403504532663,Cloudy,Highway,Low Light,Truck,100,3,Medium,Drunk Driving,Yes,Low,Low
+2023-01-23,06:39,Wayanad,11.648973004951936,76.1448087795848,Rainy,Rural Road,Low Light,Car,100,4,High,Bad Weather,Yes,Low,Medium
+2024-03-09,18:50,Kollam,8.94025810424826,76.65822649056972,Cloudy,Rural Road,Night,Car,40,2,Medium,Road Condition,No,High,High
+2023-07-11,18:39,Palakkad,10.832967101644579,76.62761014819091,Rainy,Rural Road,Night,Car,80,4,Low,Bad Weather,Yes,Low,High
+2023-05-28,17:19,Malappuram,11.042976324113747,76.05241937764066,Cloudy,Highway,Night,Truck,100,2,Medium,Distracted Driving,No,High,High
+2024-03-22,04:02,Kottayam,9.561053484582839,76.53009622706688,Clear,Highway,Night,Bus,50,3,Medium,Drunk Driving,Yes,Low,Low
+2024-04-29,16:49,Kollam,8.86317811351418,76.64208956126691,Rainy,City Road,Daylight,Truck,80,4,High,Distracted Driving,No,Low,High
+2024-09-06,10:36,Ernakulam,10.025687805066802,76.34713777243695,Clear,City Road,Night,Truck,50,3,Low,Road Condition,No,High,High
+2024-06-29,20:10,Alappuzha,9.53065272574045,76.35410152345634,Clear,Rural Road,Daylight,Bus,80,1,Low,Distracted Driving,Yes,Medium,Low
+2024-07-08,16:29,Thiruvananthapuram,8.478126821285064,76.89173596706793,Clear,Rural Road,Low Light,Truck,50,4,High,Overspeeding,Yes,Medium,High
+2023-01-15,20:39,Thiruvananthapuram,8.557526531163834,76.97731474016972,Foggy,City Road,Daylight,Car,60,1,Medium,Distracted Driving,Yes,Medium,High
+2023-04-13,17:25,Thiruvananthapuram,8.543838220672127,76.98271039577622,Rainy,Rural Road,Low Light,Bus,80,3,High,Drunk Driving,Yes,Medium,Medium
+2023-05-15,14:38,Kottayam,9.572374393638867,76.57181595421724,Clear,Highway,Low Light,Truck,40,2,Low,Distracted Driving,Yes,Medium,Medium
+2023-08-03,07:44,Thiruvananthapuram,8.48617758089247,76.92858422769126,Clear,Rural Road,Low Light,Bus,60,2,Low,Overspeeding,No,Low,High
+2023-09-18,09:26,Kasaragod,12.512469125966955,74.98955279768059,Clear,City Road,Daylight,Bike,80,2,Medium,Overspeeding,No,Low,Medium
+2024-11-27,03:24,Kasaragod,12.495487343659525,74.98388068312215,Rainy,Rural Road,Daylight,Bus,60,4,Low,Road Condition,Yes,High,High
+2024-02-28,19:55,Kollam,8.884100609009524,76.59607363925092,Rainy,Rural Road,Night,Truck,60,4,High,Distracted Driving,No,Low,Medium
+2023-06-12,09:06,Kasaragod,12.465420710835419,74.94437346225091,Clear,Highway,Night,Bike,60,1,Medium,Road Condition,Yes,High,High
+2023-04-26,14:18,Kasaragod,12.462100931595558,74.99651601100273,Rainy,City Road,Night,Bus,80,2,High,Overspeeding,No,Medium,Low
+2023-03-28,11:02,Thrissur,10.553491266870223,76.20977063998347,Clear,Highway,Night,Bike,100,4,High,Road Condition,Yes,High,Low
+2024-11-10,02:38,Thiruvananthapuram,8.524202340609637,76.94585124375739,Rainy,Highway,Daylight,Truck,60,1,High,Road Condition,Yes,High,Low
+2023-09-15,20:29,Wayanad,11.658329239084567,76.10016107142815,Clear,City Road,Low Light,Car,100,4,Medium,Drunk Driving,No,Low,Low
+2024-08-09,15:50,Kottayam,9.546592619072431,76.51943468134056,Rainy,Highway,Daylight,Bike,100,1,Medium,Drunk Driving,Yes,Medium,Low
+2023-09-02,10:07,Ernakulam,9.994605855223325,76.2545020301305,Foggy,City Road,Low Light,Car,50,3,High,Drunk Driving,Yes,High,Medium
+2024-05-05,07:22,Alappuzha,9.516596623897994,76.37938863638725,Clear,City Road,Low Light,Truck,50,4,Low,Drunk Driving,No,Medium,Medium
+2023-07-16,15:03,Malappuram,11.042573105996452,76.10886788196932,Clear,Rural Road,Daylight,Bike,40,1,Low,Road Condition,No,Low,Low
+2023-02-22,15:51,Kasaragod,12.472907937342445,74.94616046259122,Rainy,Rural Road,Low Light,Truck,80,2,Medium,Road Condition,No,Low,High
+2023-10-19,07:35,Thiruvananthapuram,8.517140361977324,76.90841754876216,Clear,Rural Road,Night,Car,60,2,Medium,Bad Weather,No,Low,Medium
+2024-05-20,04:59,Idukki,9.805796011920325,76.92389790646035,Foggy,Highway,Daylight,Bike,100,3,High,Distracted Driving,Yes,High,Medium
+2023-11-10,07:03,Kottayam,9.554050929858459,76.4837626191638,Foggy,Highway,Night,Bike,40,3,Medium,Distracted Driving,Yes,Medium,High
+2023-01-08,06:51,Kottayam,9.548734955351668,76.53072493901641,Clear,City Road,Low Light,Bus,60,3,High,Distracted Driving,No,Low,Medium
+2023-04-07,13:01,Wayanad,11.653506375174645,76.10276612346435,Rainy,Highway,Low Light,Car,50,1,Low,Bad Weather,Yes,High,High
+2023-06-05,14:52,Idukki,9.865470281632117,76.98318015068118,Foggy,Rural Road,Daylight,Car,100,3,High,Bad Weather,Yes,High,Low
+2024-06-06,09:27,Kollam,8.871604795037511,76.63921852908679,Rainy,Rural Road,Low Light,Bus,100,4,Low,Road Condition,No,High,High
+2024-09-20,12:31,Pathanamthitta,9.288705296253521,76.78441500090088,Cloudy,City Road,Daylight,Bus,50,2,Low,Drunk Driving,Yes,Medium,Medium
+2024-08-16,05:18,Kasaragod,12.536522427750507,74.9971599057991,Rainy,City Road,Night,Car,60,2,Medium,Overspeeding,No,Medium,Low
+2023-08-15,06:33,Thiruvananthapuram,8.506348621269701,76.9246197166495,Cloudy,Highway,Low Light,Truck,100,1,High,Overspeeding,No,High,Medium
+2023-03-18,10:19,Wayanad,11.669802869493386,76.16821259958493,Rainy,City Road,Daylight,Car,80,3,High,Bad Weather,Yes,Low,High
+2023-02-11,07:22,Kozhikode,11.219045745637128,75.80961657427125,Rainy,Highway,Night,Bus,100,3,Medium,Road Condition,No,High,High
+2023-10-27,01:01,Idukki,9.849088436454695,76.95352861385999,Foggy,Rural Road,Daylight,Truck,60,4,Low,Drunk Driving,Yes,High,Low
+2023-12-23,07:24,Wayanad,11.65756813275766,76.17540091411688,Rainy,Highway,Night,Truck,60,2,High,Road Condition,Yes,Medium,Low
+2024-11-25,10:37,Alappuzha,9.507344194317675,76.32173071369506,Cloudy,Highway,Low Light,Car,80,3,High,Road Condition,No,High,Medium
+2023-08-17,11:28,Idukki,9.839734514517534,76.96475506962759,Cloudy,Rural Road,Daylight,Bike,40,3,Low,Overspeeding,No,High,Low
+2023-04-23,08:17,Kasaragod,12.459395585375912,74.96445163992644,Cloudy,Rural Road,Daylight,Bus,80,3,Low,Road Condition,Yes,Low,Medium
+2024-08-23,10:44,Pathanamthitta,9.267552730000322,76.80596532904073,Rainy,Rural Road,Low Light,Bike,40,3,Medium,Distracted Driving,No,Low,High
+2023-06-29,04:34,Kannur,11.92350746878522,75.38512378945252,Cloudy,Rural Road,Night,Truck,50,1,Medium,Bad Weather,Yes,Low,High
+2023-09-17,01:25,Palakkad,10.793767141237103,76.62760655113982,Rainy,City Road,Night,Car,60,2,Low,Road Condition,Yes,Low,Low
+2023-04-14,11:37,Thiruvananthapuram,8.50560394961722,76.89288209199626,Rainy,Highway,Night,Truck,50,1,High,Distracted Driving,No,Medium,High
+2023-10-05,04:15,Kollam,8.87126828889881,76.64672741930634,Cloudy,Rural Road,Night,Bike,80,3,High,Bad Weather,No,Medium,Medium
+2024-04-11,10:31,Wayanad,11.645461961403845,76.15726287420183,Clear,City Road,Low Light,Bike,80,3,Medium,Overspeeding,Yes,High,Low
+2024-01-22,20:45,Alappuzha,9.531356622839834,76.29771589865311,Rainy,City Road,Daylight,Car,80,2,High,Bad Weather,Yes,Medium,Medium
+2024-07-22,17:30,Kollam,8.919916603022699,76.65632895800485,Cloudy,Highway,Low Light,Car,50,3,Low,Bad Weather,Yes,Medium,Low
+2023-10-19,13:06,Alappuzha,9.529487176375193,76.2890968745778,Foggy,City Road,Low Light,Bike,60,1,Low,Overspeeding,Yes,High,Medium
+2023-06-01,11:02,Kottayam,9.638124590025688,76.49723957646155,Rainy,Highway,Low Light,Bus,80,3,High,Bad Weather,No,High,Low
+2024-04-14,11:35,Wayanad,11.656584372032896,76.08359882013413,Foggy,Highway,Daylight,Bus,80,3,High,Drunk Driving,Yes,High,Medium
+2023-06-15,09:05,Kannur,11.885773287204653,75.3962205396454,Cloudy,Highway,Daylight,Car,80,1,Medium,Road Condition,Yes,Medium,Low
+2024-10-02,07:29,Kasaragod,12.476917474904301,75.00525878091335,Rainy,Highway,Daylight,Truck,100,2,High,Distracted Driving,Yes,Low,Medium
+2024-02-18,04:41,Alappuzha,9.472563491880907,76.29862030402991,Rainy,Highway,Night,Bus,100,1,High,Drunk Driving,No,High,High
+2023-03-28,17:21,Thiruvananthapuram,8.525557728772093,76.89202890290105,Foggy,Highway,Low Light,Car,40,2,Low,Overspeeding,Yes,High,High
+2023-06-14,04:43,Palakkad,10.826733763223796,76.70258666236879,Cloudy,City Road,Night,Truck,80,4,Low,Drunk Driving,No,High,Medium
+2023-11-17,02:24,Kozhikode,11.233110462361525,75.76112917547772,Cloudy,City Road,Night,Bus,100,2,Low,Bad Weather,Yes,Medium,Low
+2024-05-14,01:44,Palakkad,10.760513581086485,76.70271117707475,Rainy,City Road,Daylight,Bike,50,4,Low,Drunk Driving,No,High,Low
+2023-12-31,13:28,Idukki,9.832445046269841,77.0045920488088,Foggy,Rural Road,Night,Bus,40,4,Low,Distracted Driving,No,Low,Low
+2024-02-16,11:49,Kollam,8.884953428076049,76.61716847095727,Cloudy,Rural Road,Daylight,Bus,100,3,High,Drunk Driving,Yes,High,Medium
+2024-08-08,14:54,Kannur,11.863933884055307,75.40772412382904,Clear,Highway,Night,Bus,50,1,Medium,Bad Weather,Yes,High,Medium
+2023-02-06,14:41,Palakkad,10.7800665475012,76.65880875835393,Rainy,City Road,Night,Bike,60,2,Low,Distracted Driving,No,High,High
+2023-04-12,03:16,Kannur,11.862801004486965,75.40888021448147,Foggy,Rural Road,Low Light,Truck,60,4,Low,Drunk Driving,Yes,High,High
+2024-08-14,10:54,Ernakulam,10.030069421452064,76.3351547900589,Clear,City Road,Low Light,Bus,50,3,High,Distracted Driving,No,Low,Medium
+2023-10-23,17:01,Kozhikode,11.255911375890872,75.82240123280093,Rainy,Highway,Low Light,Car,40,2,High,Overspeeding,No,Medium,High
+2024-03-23,05:54,Malappuram,11.066698730345466,76.03382196685295,Cloudy,Highway,Night,Bike,40,2,High,Bad Weather,Yes,Medium,Low
+2023-04-04,17:47,Wayanad,11.71855748310566,76.12861171821022,Foggy,Highway,Low Light,Bike,80,2,Low,Road Condition,No,Medium,Medium
+2024-02-05,03:47,Kottayam,9.606164336106687,76.55529535637868,Clear,Rural Road,Night,Bike,40,2,Medium,Bad Weather,No,Low,Medium
+2024-10-17,11:59,Kozhikode,11.215752278443372,75.79720786262335,Foggy,City Road,Night,Bike,80,4,Low,Overspeeding,Yes,High,High
+2023-03-31,04:58,Kannur,11.849719936207034,75.3825982946531,Cloudy,Rural Road,Night,Truck,50,3,Low,Drunk Driving,Yes,Low,Low
+2023-10-13,05:51,Kottayam,9.54752449835396,76.56390743866059,Rainy,Rural Road,Daylight,Truck,50,1,Low,Bad Weather,Yes,High,Medium
+2024-03-12,02:05,Kannur,11.91091004728932,75.35886928860909,Rainy,Rural Road,Daylight,Car,60,4,Medium,Bad Weather,Yes,Low,High
+2023-06-15,08:48,Kozhikode,11.303511057407576,75.79262785963944,Rainy,Highway,Low Light,Truck,80,2,High,Drunk Driving,No,Medium,High
+2024-02-05,09:36,Thrissur,10.545501939004334,76.2094168404169,Cloudy,City Road,Night,Bus,50,1,Low,Road Condition,Yes,Medium,Low
+2023-09-30,14:08,Wayanad,11.69456143100948,76.09536755700174,Rainy,City Road,Low Light,Bike,50,1,Low,Drunk Driving,Yes,High,Medium
+2024-11-22,01:21,Ernakulam,10.005213976695511,76.32146409327422,Foggy,Rural Road,Low Light,Bike,40,1,High,Drunk Driving,No,High,High
+2023-10-19,10:18,Kozhikode,11.21024971280422,75.74811634461203,Foggy,Rural Road,Daylight,Bike,40,1,Medium,Bad Weather,No,Low,High
+2023-03-30,04:07,Kasaragod,12.49004395855712,75.03444145826589,Foggy,Highway,Night,Bike,40,1,Medium,Overspeeding,Yes,Low,Low
+2023-09-20,14:30,Kozhikode,11.297789317244991,75.81817482133172,Cloudy,Rural Road,Daylight,Bus,100,4,Low,Overspeeding,Yes,Medium,Low
+2024-03-10,12:23,Kasaragod,12.528038541788437,75.03285041626495,Foggy,City Road,Low Light,Truck,60,1,Medium,Drunk Driving,Yes,Low,Low
+2024-05-13,05:10,Idukki,9.802986745767885,76.93748932368437,Clear,City Road,Daylight,Car,50,4,Medium,Bad Weather,No,Low,High
+2024-11-09,03:50,Kottayam,9.629995523707207,76.51769734928759,Foggy,City Road,Night,Bus,100,2,High,Bad Weather,Yes,Medium,Low
+2024-06-18,03:02,Kollam,8.851388794094582,76.60085248309997,Foggy,City Road,Night,Car,60,2,Low,Drunk Driving,Yes,High,High
+2023-10-29,04:27,Kannur,11.915280904984826,75.35194179415664,Cloudy,Highway,Daylight,Car,60,4,Medium,Bad Weather,No,High,Medium
+2023-08-08,03:34,Thrissur,10.573835662786935,76.20763909160692,Rainy,Rural Road,Low Light,Car,60,3,High,Bad Weather,Yes,Medium,High
+2024-01-17,07:58,Idukki,9.894539813242876,76.95172624025295,Clear,Rural Road,Night,Truck,40,1,High,Distracted Driving,Yes,Low,High
+2023-03-17,09:38,Palakkad,10.801929381662346,76.62376457807592,Clear,Rural Road,Low Light,Bus,80,4,High,Overspeeding,Yes,High,Medium
+2024-09-15,11:02,Kannur,11.87439540842573,75.39845801352561,Foggy,City Road,Low Light,Bus,100,1,Medium,Distracted Driving,Yes,Low,Low
+2023-08-13,23:14,Palakkad,10.787216451825728,76.64436271843994,Clear,Rural Road,Night,Truck,100,3,High,Road Condition,Yes,Medium,Low
+2024-09-15,21:31,Kozhikode,11.243570636723708,75.80995620593777,Cloudy,Highway,Low Light,Bus,100,1,Medium,Drunk Driving,Yes,High,Medium
+2023-12-23,03:40,Kollam,8.853735382562947,76.57957002938444,Foggy,Rural Road,Night,Bus,80,2,Low,Overspeeding,Yes,Medium,Medium
+2024-07-28,03:40,Kollam,8.915549071401491,76.63048930280985,Foggy,City Road,Daylight,Bus,40,4,Low,Drunk Driving,No,Medium,Low
+2024-02-02,21:31,Thiruvananthapuram,8.533741671941888,76.925031791185,Cloudy,Rural Road,Low Light,Car,100,2,Medium,Distracted Driving,No,High,Low
+2023-12-07,17:48,Idukki,9.824978980914727,76.95204857908836,Clear,City Road,Low Light,Car,50,2,Low,Road Condition,No,High,Medium
+2023-01-14,14:08,Ernakulam,10.019179024200165,76.33628464780445,Rainy,Highway,Daylight,Car,50,4,Low,Overspeeding,Yes,Low,Low
+2023-02-08,08:35,Kollam,8.89525461983513,76.60257587824002,Rainy,Rural Road,Daylight,Truck,50,1,Low,Road Condition,No,Low,High
+2023-12-07,05:22,Kozhikode,11.213282606724253,75.78714803276081,Rainy,Highway,Low Light,Bus,60,4,Low,Bad Weather,Yes,Low,High
+2023-08-15,10:23,Kannur,11.920112946760575,75.32482368392482,Cloudy,Highway,Low Light,Bus,80,1,High,Distracted Driving,Yes,Medium,High
+2023-09-10,06:05,Thiruvananthapuram,8.500024737872373,76.95130933383679,Rainy,City Road,Daylight,Bike,80,3,High,Bad Weather,No,Medium,Medium
+2023-06-16,01:38,Kollam,8.875005959710073,76.64410920681111,Rainy,Rural Road,Low Light,Bike,80,2,High,Road Condition,Yes,Low,Medium
+2024-09-08,08:21,Kasaragod,12.490908069789263,75.0133709071481,Foggy,Rural Road,Night,Car,100,4,High,Drunk Driving,Yes,High,High
+2024-01-25,21:12,Pathanamthitta,9.225079677991841,76.76941416369262,Cloudy,Rural Road,Low Light,Car,80,3,Medium,Drunk Driving,No,High,Medium
+2023-06-28,05:42,Malappuram,11.007364195572602,76.07248607915483,Foggy,Highway,Daylight,Car,80,2,Medium,Distracted Driving,Yes,High,Low
+2024-08-24,19:54,Kollam,8.850302160779997,76.63153343839356,Rainy,Rural Road,Night,Truck,60,1,Medium,Distracted Driving,Yes,Low,Low
+2024-08-09,23:09,Kottayam,9.607722554649756,76.56716135599028,Rainy,Highway,Low Light,Bus,80,1,Medium,Overspeeding,Yes,Medium,High
+2024-09-19,13:42,Palakkad,10.757935605451152,76.64467291048777,Rainy,Rural Road,Daylight,Truck,100,4,High,Drunk Driving,Yes,High,Medium
+2024-05-14,01:31,Palakkad,10.755306269654342,76.6963366432642,Foggy,City Road,Daylight,Car,100,4,High,Drunk Driving,No,Low,Low
+2024-09-06,00:46,Idukki,9.829598079702468,77.01518484585766,Foggy,City Road,Low Light,Car,40,4,Low,Bad Weather,No,Medium,High
+2024-06-28,00:04,Idukki,9.875110460895396,76.99972186202966,Clear,Highway,Night,Bike,40,1,High,Overspeeding,Yes,Low,Low
+2023-08-24,05:10,Ernakulam,10.010177568933255,76.26177820171365,Foggy,Highway,Daylight,Truck,80,4,Low,Overspeeding,No,Low,Medium
+2024-07-27,09:05,Kottayam,9.583759762455816,76.53165736478539,Clear,Highway,Low Light,Bus,50,3,Low,Bad Weather,Yes,High,High
+2024-11-22,23:02,Pathanamthitta,9.228752626287065,76.75176696830844,Foggy,Highway,Night,Car,40,4,High,Overspeeding,Yes,Low,Medium
+2023-10-11,21:42,Wayanad,11.691112945953142,76.13337146695271,Cloudy,City Road,Night,Bus,60,1,Low,Road Condition,Yes,Low,High
+2024-09-02,08:19,Kozhikode,11.304587051733158,75.82659569976705,Rainy,City Road,Night,Bike,100,4,High,Drunk Driving,No,Low,Medium
+2023-08-10,13:23,Wayanad,11.640201365420205,76.13515839542494,Cloudy,City Road,Night,Bike,100,2,Medium,Overspeeding,No,High,Low
+2023-03-03,19:38,Idukki,9.81515423561232,76.96123551892288,Clear,Rural Road,Daylight,Bike,40,1,High,Road Condition,No,High,High
+2024-03-08,21:28,Palakkad,10.825196376787893,76.60721298833404,Clear,Highway,Daylight,Bike,80,3,High,Drunk Driving,No,High,Low
+2023-09-29,19:51,Kottayam,9.596277233277181,76.52535914835211,Rainy,City Road,Low Light,Car,50,3,Medium,Drunk Driving,Yes,Medium,Medium
+2024-07-12,17:39,Pathanamthitta,9.282410456941845,76.82051476950532,Foggy,City Road,Night,Bike,80,4,High,Drunk Driving,Yes,Medium,High
+2024-11-17,22:44,Thiruvananthapuram,8.544461490218113,76.90084258199843,Rainy,Highway,Night,Bus,100,3,Low,Drunk Driving,Yes,Low,High
+2023-01-06,03:56,Alappuzha,9.510830904609763,76.35746841182932,Cloudy,City Road,Low Light,Bus,40,4,High,Drunk Driving,Yes,Low,High
+2024-11-15,01:38,Kollam,8.93069643781397,76.5714949640063,Clear,Highway,Night,Bike,100,2,Low,Road Condition,Yes,Medium,Low
+2024-01-31,20:59,Palakkad,10.801724312077521,76.6782074752242,Rainy,City Road,Low Light,Truck,80,2,High,Overspeeding,No,Medium,Medium
+2023-09-20,19:41,Malappuram,11.090209691632877,76.08926828504929,Cloudy,Highway,Daylight,Bike,80,1,Medium,Road Condition,No,Low,Medium
+2023-02-10,19:24,Thrissur,10.487247621189002,76.26051953698179,Rainy,Highway,Daylight,Bike,60,1,Low,Drunk Driving,Yes,Low,Low
+2023-03-27,11:32,Alappuzha,9.4813714349073,76.37956832062582,Rainy,City Road,Night,Bus,100,2,Medium,Bad Weather,Yes,High,Low
+2023-05-29,04:07,Ernakulam,10.006727222791895,76.26654497699046,Clear,Highway,Daylight,Car,80,3,Low,Distracted Driving,No,High,Low
+2023-02-16,23:31,Wayanad,11.686421751128083,76.1546897076637,Clear,City Road,Daylight,Car,40,1,Medium,Drunk Driving,Yes,Low,Low
+2024-08-21,01:39,Kannur,11.914119638810638,75.3215348535362,Foggy,Rural Road,Low Light,Car,80,3,Medium,Road Condition,No,Low,Low
+2023-10-17,00:20,Kottayam,9.639684595347,76.47313607004729,Foggy,Highway,Daylight,Bus,50,4,Medium,Overspeeding,Yes,Low,Medium
+2023-01-08,07:25,Alappuzha,9.498277003579691,76.34854984409918,Foggy,City Road,Low Light,Car,60,2,Low,Bad Weather,No,Medium,Medium
+2023-11-18,00:48,Kottayam,9.629217259231877,76.51832415796405,Rainy,Highway,Daylight,Bus,100,3,Low,Drunk Driving,No,Medium,Low
+2023-02-19,16:11,Kannur,11.912283900737297,75.35858744708227,Cloudy,Highway,Low Light,Bike,40,4,Medium,Distracted Driving,No,High,High
+2024-11-06,14:44,Kollam,8.922246613470746,76.65573248986004,Rainy,Rural Road,Night,Car,60,3,High,Bad Weather,No,Low,Medium
+2023-06-11,02:42,Idukki,9.897769791082503,76.95944462874868,Cloudy,Rural Road,Night,Bike,40,1,Low,Road Condition,Yes,High,Low
+2023-06-27,02:45,Thrissur,10.52534315724284,76.20987554227172,Foggy,Highway,Low Light,Truck,50,1,High,Road Condition,Yes,Low,Medium
+2024-10-07,06:55,Idukki,9.812701345067232,76.93025439337823,Clear,Rural Road,Night,Car,100,4,Medium,Overspeeding,Yes,High,Medium
+2024-02-07,15:38,Palakkad,10.751393118148522,76.62983808749172,Rainy,Rural Road,Night,Bus,40,1,High,Drunk Driving,Yes,Low,Medium
+2024-08-14,04:49,Palakkad,10.75053729303061,76.6111080278129,Foggy,Highway,Low Light,Car,50,3,Medium,Bad Weather,Yes,Low,High
+2023-09-08,00:35,Kasaragod,12.541796431529624,74.95721589566335,Clear,Rural Road,Night,Bike,50,1,Low,Overspeeding,No,Low,Low
+2024-09-08,08:52,Idukki,9.869410260380274,77.01763906646731,Clear,Rural Road,Night,Bike,100,3,Medium,Distracted Driving,Yes,Low,Medium
+2023-01-17,12:34,Thiruvananthapuram,8.526619015378465,76.91781072821294,Foggy,Rural Road,Daylight,Truck,60,3,Low,Road Condition,Yes,High,High
+2023-11-16,08:51,Kasaragod,12.532746818603858,75.03012109122245,Foggy,Highway,Night,Truck,50,2,Low,Drunk Driving,Yes,Medium,High
+2024-05-28,13:30,Malappuram,11.02034807759031,76.11021704649686,Cloudy,City Road,Night,Bike,60,2,Low,Drunk Driving,No,Medium,Low
+2024-05-01,19:28,Kottayam,9.578883786315778,76.56035863996036,Cloudy,Highway,Low Light,Car,80,2,Medium,Road Condition,No,Medium,Low
+2023-01-17,00:41,Kasaragod,12.465977067366147,74.95605429094694,Clear,Highway,Low Light,Truck,100,1,Medium,Road Condition,Yes,Medium,Medium
+2023-04-22,09:38,Pathanamthitta,9.267842700208078,76.75700170000346,Cloudy,Highway,Daylight,Car,100,1,Low,Road Condition,Yes,Medium,Low
+2023-08-21,20:22,Kollam,8.911660226439654,76.62288442410699,Clear,Highway,Night,Bike,40,1,Medium,Drunk Driving,No,High,Low
+2023-12-24,14:49,Palakkad,10.80888263943044,76.63537371272965,Clear,City Road,Low Light,Truck,100,4,Medium,Road Condition,Yes,Low,High
+2023-07-30,08:39,Kottayam,9.569410376871923,76.5440423188537,Rainy,Rural Road,Low Light,Car,50,1,Low,Drunk Driving,No,High,Medium
+2023-02-07,07:17,Kasaragod,12.537365731875218,74.96740829614876,Foggy,Highway,Low Light,Bus,60,3,Low,Overspeeding,No,Medium,Medium
+2023-07-07,11:50,Palakkad,10.743294314083851,76.67804977315596,Clear,Highway,Night,Bike,60,3,High,Overspeeding,No,Low,Low
+2023-04-16,02:21,Thrissur,10.484518738357982,76.22933914850078,Cloudy,Rural Road,Night,Car,40,1,High,Bad Weather,No,High,High
+2024-10-05,15:32,Pathanamthitta,9.282239987510312,76.77689872681601,Cloudy,Rural Road,Night,Bike,60,3,Medium,Distracted Driving,No,High,High
+2023-10-25,01:16,Kollam,8.851177019820627,76.64755242541047,Rainy,Highway,Daylight,Bus,100,2,Low,Bad Weather,No,Medium,Low
+2024-09-09,05:33,Palakkad,10.78166726732383,76.62307298330198,Clear,City Road,Low Light,Bus,40,1,Low,Drunk Driving,Yes,Medium,Low
+2023-05-10,11:54,Thiruvananthapuram,8.492813698897491,76.98338171216234,Foggy,City Road,Night,Truck,80,4,High,Drunk Driving,Yes,Low,Medium
+2023-04-15,13:29,Kasaragod,12.51840716448507,75.0294619942744,Clear,City Road,Daylight,Bike,80,1,Low,Overspeeding,No,Medium,Medium
+2023-08-16,19:22,Kollam,8.923095181861486,76.61566329691368,Rainy,City Road,Night,Bike,50,3,High,Bad Weather,No,Medium,High
+2024-08-31,17:06,Ernakulam,9.983957599058968,76.26862511686242,Cloudy,City Road,Low Light,Bus,50,4,Medium,Overspeeding,No,Medium,Medium
+2024-04-04,08:28,Pathanamthitta,9.306502440887625,76.83234079899488,Foggy,City Road,Night,Bike,100,3,High,Overspeeding,Yes,Low,Medium
+2023-07-11,05:33,Palakkad,10.7376479566026,76.70241305826652,Rainy,Rural Road,Daylight,Car,40,2,Low,Road Condition,Yes,High,Low
+2024-03-05,13:39,Pathanamthitta,9.293084677304739,76.81375618036923,Foggy,Rural Road,Daylight,Bike,80,4,High,Drunk Driving,No,Medium,High
+2023-04-26,15:00,Kasaragod,12.51976033267858,75.03071070825095,Clear,City Road,Night,Truck,100,1,Low,Bad Weather,No,High,Low
+2024-03-18,03:46,Kozhikode,11.258183451254485,75.76325359504126,Rainy,City Road,Daylight,Truck,50,4,High,Overspeeding,No,Low,High
+2023-02-12,12:00,Wayanad,11.648741564598861,76.14914712209226,Foggy,Rural Road,Low Light,Truck,40,1,Low,Bad Weather,No,High,High
+2024-06-09,18:37,Pathanamthitta,9.278848860621467,76.74640812946004,Rainy,Highway,Low Light,Car,60,2,Medium,Bad Weather,No,Medium,Medium
+2023-02-02,02:18,Ernakulam,10.020926319258008,76.34145152493201,Clear,Rural Road,Low Light,Bike,50,1,High,Distracted Driving,Yes,Low,Low
+2023-02-26,07:00,Idukki,9.86796242175018,76.9550659729374,Rainy,City Road,Night,Truck,50,3,Medium,Bad Weather,No,High,Medium
+2023-02-02,15:27,Alappuzha,9.505273640658531,76.38711556210993,Rainy,City Road,Night,Truck,50,2,High,Bad Weather,Yes,Medium,Low
+2024-02-25,14:38,Malappuram,11.09528024733945,76.03699545275904,Foggy,Highway,Night,Bike,60,1,Medium,Road Condition,No,Low,Medium
+2023-02-21,17:16,Thrissur,10.483591124244443,76.16459639792716,Rainy,Rural Road,Low Light,Truck,50,3,Medium,Bad Weather,No,High,High
+2023-08-02,07:24,Kannur,11.901522916576493,75.41944334555475,Clear,Highway,Daylight,Truck,60,4,High,Drunk Driving,No,Medium,High
+2024-08-21,18:11,Wayanad,11.648296206640811,76.1104370698727,Foggy,Rural Road,Daylight,Bus,100,3,Medium,Overspeeding,Yes,Medium,Medium
+2023-04-27,06:38,Kottayam,9.565711538368946,76.52755020482812,Rainy,Rural Road,Low Light,Bike,100,2,Medium,Overspeeding,Yes,Low,High
+2023-11-18,21:39,Kasaragod,12.51665709662095,75.03472965537244,Rainy,Rural Road,Daylight,Bus,80,2,Low,Road Condition,Yes,Low,Low
+2023-01-11,10:54,Idukki,9.882557524717454,76.94512540657021,Clear,Highway,Low Light,Truck,50,3,High,Drunk Driving,Yes,High,High
+2024-01-09,14:45,Ernakulam,9.933313353239805,76.2718302439763,Rainy,Highway,Low Light,Bus,40,1,Medium,Bad Weather,Yes,High,High
+2024-07-10,15:22,Thrissur,10.493639445802447,76.20298121008823,Cloudy,Rural Road,Daylight,Bus,40,1,Low,Drunk Driving,Yes,Low,Low
+2023-09-29,04:42,Kasaragod,12.512352112842981,74.96068015185263,Rainy,City Road,Low Light,Car,50,4,High,Overspeeding,Yes,High,Medium
+2023-04-06,23:53,Wayanad,11.678071929100138,76.16754837696274,Rainy,Rural Road,Low Light,Bus,50,3,Low,Drunk Driving,Yes,High,High
+2024-06-29,00:43,Ernakulam,9.975441350817297,76.25602571448118,Foggy,City Road,Low Light,Truck,50,2,Medium,Overspeeding,No,Low,High
+2023-07-13,10:04,Kottayam,9.584569269257116,76.50530397722629,Cloudy,Highway,Low Light,Truck,60,1,Low,Bad Weather,No,High,Medium
+2023-09-24,19:44,Ernakulam,9.994157113850695,76.28074377944696,Foggy,Rural Road,Night,Bus,40,4,High,Overspeeding,Yes,Medium,Medium
+2024-08-21,08:19,Thrissur,10.531099486679883,76.191716069911,Rainy,City Road,Low Light,Car,40,2,Medium,Drunk Driving,No,Medium,Medium
+2023-01-05,00:03,Thrissur,10.502944797791763,76.1847907581493,Clear,City Road,Low Light,Bike,100,3,High,Bad Weather,Yes,Low,Medium
+2023-04-17,11:33,Kottayam,9.585533921619321,76.5713867107545,Foggy,City Road,Daylight,Bike,60,3,Low,Overspeeding,No,Medium,Low
+2023-05-18,19:09,Thrissur,10.506911169591394,76.18745815278817,Foggy,Rural Road,Low Light,Bus,80,1,Low,Overspeeding,Yes,Medium,Medium
+2023-06-08,20:59,Kannur,11.909336071721773,75.37452341777475,Cloudy,Highway,Night,Bus,100,2,Low,Drunk Driving,No,High,High
+2024-06-03,10:55,Thiruvananthapuram,8.50853791674686,76.89304228465753,Clear,City Road,Daylight,Truck,60,1,High,Overspeeding,No,High,Low
+2023-05-30,17:22,Pathanamthitta,9.29351898032178,76.75866438266227,Cloudy,Highway,Low Light,Truck,80,1,Low,Distracted Driving,Yes,High,High
+2023-12-15,07:00,Thrissur,10.505743682323024,76.199513596498,Clear,City Road,Night,Bus,40,2,Medium,Drunk Driving,Yes,Medium,High
+2024-09-14,07:05,Idukki,9.858572801513239,76.97426938132081,Cloudy,Highway,Daylight,Bus,50,4,Low,Bad Weather,No,Low,High
+2023-04-24,14:04,Wayanad,11.683467397455093,76.15591879410346,Clear,Highway,Low Light,Truck,60,3,Medium,Distracted Driving,No,Low,Low
+2023-10-30,03:43,Wayanad,11.726782182890297,76.14358907483802,Clear,Rural Road,Low Light,Truck,60,4,Medium,Bad Weather,No,High,Medium
+2023-04-29,23:08,Idukki,9.822980706877098,76.94799064635318,Foggy,City Road,Low Light,Truck,60,3,High,Drunk Driving,No,Low,Low
+2023-01-13,12:29,Thrissur,10.554185987443658,76.22911045837195,Cloudy,Rural Road,Low Light,Bus,50,2,Medium,Bad Weather,Yes,Low,High
+2023-08-29,03:40,Kannur,11.891527452044478,75.36926000536995,Clear,Highway,Low Light,Car,60,2,Low,Drunk Driving,No,Low,High
+2024-11-16,14:58,Thiruvananthapuram,8.511253297493191,76.93942993268584,Clear,Highway,Low Light,Car,60,1,High,Bad Weather,No,Medium,High
+2023-03-12,12:52,Idukki,9.880727736424598,76.94397831627933,Cloudy,Rural Road,Daylight,Car,60,4,Low,Road Condition,No,Medium,Low
+2023-11-28,12:36,Pathanamthitta,9.288552548334751,76.75314115656037,Foggy,Highway,Daylight,Bus,100,3,High,Distracted Driving,No,Medium,Low
+2023-03-26,05:54,Wayanad,11.70842769588709,76.09907700504094,Rainy,City Road,Night,Truck,80,1,Low,Bad Weather,No,Medium,High
+2023-04-16,02:58,Alappuzha,9.46267787023568,76.34271591214089,Foggy,City Road,Low Light,Bike,50,2,Medium,Bad Weather,Yes,High,Medium
+2023-08-15,16:56,Kannur,11.892007195595584,75.41085884269141,Foggy,Rural Road,Low Light,Bike,50,2,High,Overspeeding,No,Medium,Low
+2024-05-10,07:52,Wayanad,11.680123605091843,76.09671506229967,Foggy,City Road,Low Light,Truck,40,4,Low,Bad Weather,Yes,Low,Medium
+2024-12-01,01:20,Thiruvananthapuram,8.514701215829906,76.94030620578351,Rainy,Highway,Night,Bike,40,4,Medium,Road Condition,Yes,Low,High
+2023-12-12,05:17,Kannur,11.843882547253033,75.38803657792796,Rainy,Highway,Daylight,Bus,40,1,Low,Overspeeding,Yes,Low,Medium
+2024-06-01,15:01,Alappuzha,9.459344387049585,76.36169607993197,Cloudy,City Road,Night,Truck,100,4,Medium,Overspeeding,No,High,Low
+2023-11-29,22:34,Kozhikode,11.270422901956268,75.78053424293263,Cloudy,Highway,Daylight,Bike,60,2,Medium,Bad Weather,No,High,High
+2023-02-10,13:54,Kottayam,9.571337262343127,76.5481473090654,Rainy,Rural Road,Daylight,Car,60,4,Medium,Overspeeding,No,High,High
+2024-03-27,09:52,Kollam,8.866680732289847,76.64371136049762,Foggy,Highway,Daylight,Bike,40,4,Low,Road Condition,No,Medium,High
+2024-08-29,21:37,Kannur,11.845729462449643,75.39147365685085,Rainy,Highway,Low Light,Bike,100,1,High,Distracted Driving,Yes,High,Medium
+2023-08-07,23:49,Idukki,9.84553769149063,76.93707527179924,Cloudy,City Road,Daylight,Car,50,4,Low,Distracted Driving,Yes,Medium,Medium
+2023-03-06,09:10,Thiruvananthapuram,8.501555923806267,76.97001505714574,Clear,Rural Road,Low Light,Bus,40,4,High,Road Condition,No,Low,Medium
+2023-09-12,17:10,Thiruvananthapuram,8.56368673895549,76.8936322366071,Rainy,Rural Road,Night,Bike,50,2,High,Overspeeding,Yes,Medium,Low
+2024-07-03,14:48,Alappuzha,9.504010167088849,76.3391211659571,Cloudy,Highway,Night,Car,40,3,High,Road Condition,Yes,Medium,Medium
+2024-12-01,00:38,Kozhikode,11.268636836903202,75.80597785910055,Foggy,Rural Road,Daylight,Bike,50,4,Medium,Bad Weather,Yes,High,Medium
+2024-03-21,09:02,Pathanamthitta,9.23892842498728,76.83292767419522,Foggy,City Road,Night,Bus,80,3,High,Bad Weather,Yes,Low,High
+2023-03-29,09:19,Thrissur,10.529959091002052,76.24383274252266,Cloudy,Highway,Low Light,Truck,50,3,High,Distracted Driving,Yes,Low,Low
+2024-08-19,03:44,Kollam,8.882899226838322,76.57537859065918,Foggy,City Road,Daylight,Car,80,4,High,Road Condition,No,Low,Medium
+2024-01-07,18:51,Idukki,9.841264928186996,76.93981927119593,Foggy,Highway,Low Light,Bus,50,2,Medium,Distracted Driving,Yes,Medium,Low
+2024-01-08,16:39,Kottayam,9.62021708219199,76.5340012062701,Clear,Highway,Night,Truck,40,4,Low,Road Condition,Yes,High,Low
+2024-10-16,20:29,Kozhikode,11.241817782060027,75.82131202862142,Clear,Rural Road,Night,Car,100,4,Low,Drunk Driving,No,Medium,Medium
+2024-08-06,06:36,Wayanad,11.661984328289204,76.16633473209775,Foggy,Rural Road,Low Light,Car,60,2,Low,Overspeeding,Yes,Medium,Medium
+2024-10-31,05:40,Pathanamthitta,9.302897107022295,76.83653700014906,Foggy,Rural Road,Daylight,Truck,50,1,High,Distracted Driving,Yes,Low,Medium
+2023-09-26,04:49,Thrissur,10.577570418424417,76.17225128285004,Clear,Highway,Night,Bus,50,2,Low,Overspeeding,Yes,Medium,Medium
+2023-03-05,17:55,Palakkad,10.785050250270784,76.6545108095241,Clear,City Road,Night,Car,60,2,High,Drunk Driving,No,Low,Medium
+2024-01-10,12:04,Alappuzha,9.467654254572599,76.35556782493174,Foggy,Rural Road,Low Light,Truck,60,1,Medium,Distracted Driving,Yes,Medium,High
+2023-01-24,19:57,Wayanad,11.720603106567165,76.12733563175215,Clear,Rural Road,Daylight,Truck,60,2,High,Distracted Driving,No,Medium,High
+2023-04-30,13:34,Kollam,8.914194406444732,76.63746980548146,Foggy,Highway,Daylight,Bus,80,2,Low,Overspeeding,Yes,High,Low
+2024-09-22,20:50,Thiruvananthapuram,8.47862783355583,76.96239207653475,Clear,Highway,Daylight,Bus,100,1,Medium,Overspeeding,No,Medium,High
+2024-10-29,09:13,Kottayam,9.550273146799857,76.56395944188431,Rainy,Rural Road,Night,Truck,50,1,Medium,Distracted Driving,Yes,High,High
+2023-12-04,09:08,Ernakulam,9.973386640865746,76.31638351728924,Clear,Rural Road,Low Light,Bike,80,2,High,Drunk Driving,Yes,High,Low
+2023-11-11,12:37,Kozhikode,11.231274447930986,75.82932420632464,Clear,Highway,Low Light,Truck,100,3,Low,Drunk Driving,Yes,High,Low
+2024-01-07,13:04,Alappuzha,9.480634782809561,76.33431710352487,Clear,Rural Road,Low Light,Car,50,3,High,Drunk Driving,Yes,Medium,Low
+2023-06-24,04:16,Kasaragod,12.45166103424056,74.94053646479662,Clear,Highway,Low Light,Bus,100,4,Low,Distracted Driving,Yes,Low,Low
+2024-09-09,02:44,Kasaragod,12.517454618824761,75.00043941616603,Foggy,City Road,Daylight,Bus,50,3,Low,Distracted Driving,No,High,Low
+2023-03-21,08:00,Kozhikode,11.248518240516068,75.79219085705164,Clear,Highway,Low Light,Truck,100,3,Medium,Drunk Driving,Yes,High,Low
+2023-05-09,07:38,Idukki,9.862876940721712,76.97108745419196,Foggy,Rural Road,Low Light,Bus,80,1,Low,Bad Weather,No,Medium,Medium
+2024-03-22,05:20,Kottayam,9.634772584054469,76.49745224648174,Rainy,Rural Road,Night,Truck,100,2,High,Drunk Driving,Yes,High,Medium
+2023-03-09,11:03,Ernakulam,9.949391609700186,76.25166790896546,Clear,Rural Road,Daylight,Bus,40,3,Low,Overspeeding,No,Medium,Low
+2023-01-26,20:24,Thiruvananthapuram,8.485208678549137,76.95007143471386,Foggy,Highway,Low Light,Car,40,3,Low,Drunk Driving,Yes,Medium,Low
+2024-09-03,05:13,Kottayam,9.640636115971297,76.5278555879083,Rainy,Highway,Daylight,Bus,80,3,Low,Road Condition,No,Low,High
+2023-01-23,02:13,Palakkad,10.78893668587405,76.64069712977458,Clear,City Road,Daylight,Bike,80,2,Medium,Distracted Driving,Yes,Medium,High
+2023-06-29,06:16,Kollam,8.907609563464739,76.61040639393224,Rainy,Highway,Daylight,Bus,40,2,Low,Drunk Driving,Yes,Low,Low
+2024-02-02,01:00,Alappuzha,9.545677886805054,76.31445322331457,Foggy,Rural Road,Daylight,Bike,40,3,High,Drunk Driving,Yes,Medium,High
+2024-06-09,10:57,Pathanamthitta,9.2904781662055,76.76830975715261,Clear,Highway,Daylight,Car,100,4,Low,Drunk Driving,No,Medium,Low
+2024-02-17,05:52,Kottayam,9.565687127771085,76.51774764447676,Clear,Rural Road,Low Light,Truck,80,4,High,Road Condition,No,Low,High
+2023-05-07,06:26,Pathanamthitta,9.284101339909354,76.7425727652993,Rainy,City Road,Daylight,Car,60,4,Medium,Bad Weather,No,Low,Low
+2024-11-17,19:09,Kottayam,9.634351199860467,76.56221046456379,Clear,City Road,Low Light,Bike,100,3,Low,Road Condition,No,High,High
+2023-04-21,13:13,Kozhikode,11.301862641118703,75.73295780153009,Foggy,City Road,Low Light,Bus,40,2,Low,Bad Weather,No,High,Low
+2023-03-01,16:56,Pathanamthitta,9.270272485121078,76.83165571170761,Cloudy,Highway,Low Light,Car,40,4,Medium,Drunk Driving,Yes,Medium,Medium
+2023-10-01,15:20,Kollam,8.937073578109281,76.60555195625064,Cloudy,City Road,Daylight,Truck,40,3,Medium,Bad Weather,Yes,High,High
+2024-07-04,18:43,Thiruvananthapuram,8.515694391013952,76.91533149725655,Clear,City Road,Night,Bike,40,2,High,Overspeeding,No,Medium,High
+2024-11-01,22:18,Thrissur,10.561115944709172,76.21478035753057,Foggy,Highway,Night,Bike,100,4,High,Overspeeding,Yes,Low,Low
+2024-09-03,05:50,Thiruvananthapuram,8.571565791103966,76.91009431600075,Cloudy,Rural Road,Daylight,Car,40,1,Low,Overspeeding,No,High,High
+2023-02-16,22:09,Pathanamthitta,9.308251354239854,76.73838105485785,Clear,City Road,Low Light,Bike,60,4,High,Distracted Driving,Yes,High,Low
+2024-03-03,01:47,Wayanad,11.663016585303904,76.09969139665434,Clear,Rural Road,Night,Bike,50,4,Low,Bad Weather,Yes,Low,Low
+2024-08-26,07:15,Thiruvananthapuram,8.556169606136935,76.97528434887442,Rainy,City Road,Daylight,Bike,40,1,High,Road Condition,Yes,Low,High
+2024-01-11,20:16,Pathanamthitta,9.265357032097045,76.8062217610569,Rainy,City Road,Low Light,Car,100,3,Medium,Bad Weather,No,Medium,Low
+2023-05-14,03:09,Thiruvananthapuram,8.530829907229736,76.97062689623455,Foggy,City Road,Night,Car,50,4,High,Distracted Driving,No,Low,Low
+2023-02-24,07:59,Idukki,9.817360261325666,76.99660151736043,Clear,Rural Road,Night,Bike,100,4,High,Overspeeding,No,Medium,Low
+2023-11-10,19:55,Kollam,8.86113191884576,76.58029522654256,Foggy,City Road,Night,Car,100,3,Medium,Distracted Driving,No,Low,High
+2024-03-31,17:27,Pathanamthitta,9.29473351975344,76.8303483460465,Clear,Rural Road,Daylight,Bike,100,4,Medium,Bad Weather,No,High,Low
+2023-06-04,19:53,Kasaragod,12.489520160210485,74.94679350482768,Foggy,Rural Road,Low Light,Car,100,2,Medium,Road Condition,No,Medium,Medium
+2024-04-24,13:42,Wayanad,11.637118650190581,76.16547523438668,Foggy,Highway,Night,Bus,40,2,High,Road Condition,Yes,Medium,High
+2023-12-03,01:32,Idukki,9.882006299959276,77.00351220388929,Clear,Rural Road,Daylight,Car,40,2,Low,Overspeeding,Yes,High,Medium
+2024-04-23,00:14,Wayanad,11.710962894163082,76.09790585481292,Clear,Highway,Night,Bus,60,2,Medium,Distracted Driving,No,Medium,Low
+2023-05-19,08:44,Malappuram,11.004804736880462,76.03250857648433,Foggy,Highway,Daylight,Truck,60,4,High,Road Condition,Yes,Medium,Medium
+2024-04-29,14:50,Wayanad,11.636517683954287,76.14081796803393,Foggy,Highway,Night,Truck,100,4,Medium,Drunk Driving,No,High,Low
+2023-09-13,09:43,Kollam,8.854730453022889,76.60647823387802,Foggy,City Road,Night,Car,50,1,Medium,Drunk Driving,No,Medium,High
+2024-10-03,05:24,Wayanad,11.649035942133409,76.08746681004408,Cloudy,Highway,Low Light,Truck,40,1,Low,Drunk Driving,Yes,Low,Low
+2023-07-13,16:33,Ernakulam,10.006071256211637,76.33682407197634,Rainy,Highway,Night,Bike,100,4,Medium,Bad Weather,Yes,High,Medium
+2023-04-09,05:53,Palakkad,10.770580594733916,76.67525096850659,Rainy,City Road,Low Light,Bus,40,1,Medium,Drunk Driving,Yes,Low,Medium
+2023-01-13,01:00,Palakkad,10.741076238658191,76.62787027688273,Clear,Highway,Daylight,Car,80,3,Medium,Overspeeding,No,High,High
+2024-06-20,22:13,Thrissur,10.560489576033582,76.21869465925172,Cloudy,City Road,Daylight,Truck,100,1,Medium,Distracted Driving,Yes,Low,High
+2024-09-08,19:54,Kasaragod,12.479634878516519,74.96334151583156,Foggy,City Road,Daylight,Car,80,3,Low,Overspeeding,Yes,Medium,High
+2024-01-13,12:57,Kannur,11.830900690250411,75.37878797297033,Clear,Rural Road,Low Light,Truck,40,1,High,Distracted Driving,No,Low,High
+2023-09-13,02:32,Ernakulam,9.953115732466872,76.32382312982567,Foggy,City Road,Night,Bus,80,3,High,Distracted Driving,Yes,Low,Medium
+2024-05-04,15:40,Kozhikode,11.243152287254993,75.80233792718187,Rainy,City Road,Low Light,Car,80,1,Medium,Distracted Driving,No,High,Medium
+2024-06-12,10:38,Malappuram,11.015667016878028,76.12081536261645,Cloudy,City Road,Low Light,Bus,50,4,High,Drunk Driving,No,Medium,Low
+2024-01-12,04:43,Kottayam,9.59297980340108,76.49938967179742,Clear,Highway,Low Light,Bike,40,4,High,Bad Weather,No,Medium,Medium
+2023-04-26,05:41,Kasaragod,12.474412909211754,75.02495016719638,Foggy,City Road,Low Light,Car,100,1,Low,Road Condition,Yes,Low,Medium
+2023-09-29,05:56,Thiruvananthapuram,8.531283555956811,76.97944193001223,Rainy,Highway,Night,Bike,60,2,Medium,Overspeeding,No,High,Medium
+2023-04-03,17:32,Kottayam,9.585535963274607,76.54632279896357,Rainy,City Road,Night,Truck,100,4,High,Road Condition,Yes,Medium,Low
+2024-03-12,11:45,Kottayam,9.54841841231531,76.53905373519393,Rainy,Rural Road,Night,Bus,40,1,Medium,Overspeeding,No,High,Low
+2023-03-04,13:19,Palakkad,10.754978437062903,76.66121173629173,Foggy,City Road,Daylight,Bike,60,4,Medium,Bad Weather,No,Medium,High
+2024-04-08,14:54,Palakkad,10.743583253272883,76.62502023376707,Foggy,Rural Road,Night,Bus,40,2,Low,Drunk Driving,Yes,Medium,Low
+2023-09-22,10:31,Thrissur,10.559530290968606,76.22905612002417,Clear,Rural Road,Low Light,Bus,80,2,Low,Overspeeding,Yes,Medium,Low
+2023-01-01,21:10,Idukki,9.89099343734589,76.93471731204912,Cloudy,Rural Road,Night,Bus,50,1,High,Distracted Driving,Yes,Medium,Low
+2023-07-25,21:19,Wayanad,11.725754198205005,76.08724062925324,Rainy,Highway,Daylight,Car,80,1,High,Overspeeding,Yes,Medium,High
+2024-04-21,14:40,Kozhikode,11.224154114666431,75.78534020121171,Foggy,Rural Road,Night,Bus,40,3,Medium,Distracted Driving,Yes,High,Low
+2024-08-06,14:18,Ernakulam,10.021879266339106,76.3066930163948,Cloudy,City Road,Night,Car,60,4,Low,Road Condition,No,Low,Medium
+2023-02-01,04:24,Thrissur,10.576509369332337,76.16582697932868,Clear,City Road,Daylight,Bus,50,2,Medium,Overspeeding,Yes,High,Low
+2024-08-12,14:59,Ernakulam,9.992829137647155,76.29207988465494,Rainy,Rural Road,Daylight,Bike,50,2,Low,Bad Weather,No,Medium,High
+2023-05-14,23:44,Kasaragod,12.469234049115792,74.93798533459513,Rainy,Highway,Low Light,Car,40,1,Low,Bad Weather,No,High,Low
+2023-07-27,13:50,Pathanamthitta,9.30730544655003,76.82083213377973,Cloudy,City Road,Daylight,Car,40,1,High,Overspeeding,Yes,High,Low
+2024-08-11,22:13,Kannur,11.888147157446504,75.32163254874082,Cloudy,City Road,Low Light,Truck,60,1,Medium,Drunk Driving,Yes,Medium,Medium
+2023-12-29,18:02,Thrissur,10.51473062083793,76.26412283059113,Cloudy,City Road,Low Light,Bike,100,2,Medium,Overspeeding,No,Low,Low
+2024-09-21,02:18,Kollam,8.929647671058543,76.62540653176293,Rainy,Highway,Daylight,Bike,80,4,High,Overspeeding,No,Low,Low
+2024-09-30,21:08,Kasaragod,12.464821638626379,74.97740207528149,Rainy,Highway,Low Light,Bus,60,1,Medium,Bad Weather,Yes,High,High
+2023-02-10,17:48,Alappuzha,9.50977305189429,76.3105150297827,Cloudy,Rural Road,Low Light,Bike,100,1,High,Overspeeding,Yes,High,Medium
+2024-07-30,23:58,Idukki,9.819525469079533,77.00151085674464,Cloudy,City Road,Low Light,Bus,60,3,Medium,Distracted Driving,No,High,Low
+2023-05-20,01:20,Kasaragod,12.453841439350766,74.98261024938401,Foggy,City Road,Night,Truck,40,4,Low,Drunk Driving,No,Medium,Low
+2024-04-30,21:48,Ernakulam,9.98362463125408,76.28597574027285,Clear,City Road,Night,Bus,80,3,Medium,Road Condition,No,Medium,Low
+2023-08-09,19:45,Pathanamthitta,9.261607498301727,76.81120742243272,Cloudy,Rural Road,Low Light,Truck,50,1,Medium,Drunk Driving,No,High,High
+2024-04-20,10:37,Kottayam,9.63729496547278,76.53325654954932,Foggy,City Road,Night,Car,80,2,Medium,Road Condition,Yes,Medium,High
+2023-07-23,06:49,Palakkad,10.815295420336021,76.67206707362386,Foggy,Highway,Night,Bus,40,2,Medium,Bad Weather,No,Low,Low
+2023-07-06,09:59,Pathanamthitta,9.285696597323598,76.77719423131582,Foggy,Rural Road,Daylight,Bus,100,2,Low,Drunk Driving,No,Low,High
+2023-08-13,23:56,Kollam,8.881482100159163,76.6582186836266,Clear,City Road,Night,Bus,40,4,Medium,Road Condition,Yes,Medium,Medium
+2024-07-14,20:00,Kasaragod,12.461435156415963,74.96106070764304,Cloudy,Highway,Low Light,Car,50,4,Medium,Drunk Driving,Yes,High,Low
+2023-11-03,15:58,Pathanamthitta,9.271706670749394,76.79227642877497,Clear,Rural Road,Daylight,Bus,40,1,Medium,Road Condition,No,Medium,High
+2024-09-28,15:19,Kannur,11.85434152508976,75.33788904379196,Foggy,Rural Road,Daylight,Truck,100,1,High,Road Condition,No,High,Low
+2023-09-23,18:44,Alappuzha,9.495171679826939,76.35102315015205,Foggy,Rural Road,Daylight,Bus,40,4,High,Bad Weather,Yes,Medium,Medium
+2024-05-23,23:13,Thrissur,10.515741841151542,76.17142675307457,Foggy,City Road,Night,Bus,60,1,Low,Bad Weather,Yes,Low,Low
+2023-08-19,02:04,Idukki,9.865458776650996,76.98017635115171,Clear,City Road,Daylight,Bus,80,4,High,Drunk Driving,No,High,Medium
+2024-11-08,00:20,Alappuzha,9.516713395225453,76.35106961347704,Rainy,Rural Road,Low Light,Bike,50,2,Medium,Distracted Driving,Yes,High,Medium
+2023-05-20,18:06,Kannur,11.89848247523929,75.38443156723659,Foggy,City Road,Low Light,Bike,100,2,Low,Drunk Driving,No,Low,Medium
+2024-06-22,00:39,Pathanamthitta,9.296379259138243,76.74977285578606,Rainy,Rural Road,Low Light,Car,100,1,Medium,Drunk Driving,No,Medium,Medium
+2024-07-23,09:26,Thrissur,10.507111841170701,76.17910310441994,Clear,Highway,Low Light,Truck,40,4,Medium,Bad Weather,Yes,High,Medium
+2023-02-20,07:10,Palakkad,10.819419506250792,76.70328397123986,Foggy,City Road,Daylight,Truck,40,1,Low,Drunk Driving,Yes,High,Medium
+2024-11-24,09:53,Kollam,8.919697652328457,76.58983682403381,Rainy,Rural Road,Night,Truck,80,1,Medium,Road Condition,Yes,Medium,Low
+2023-04-17,02:36,Thiruvananthapuram,8.51993365077441,76.89612506945137,Cloudy,Rural Road,Low Light,Bike,40,1,High,Drunk Driving,Yes,Low,High
+2023-06-12,05:21,Thiruvananthapuram,8.556894330643562,76.9075133230015,Cloudy,Rural Road,Night,Truck,60,1,Medium,Bad Weather,Yes,Low,High
+2023-11-25,15:07,Idukki,9.879313496757797,76.93932193525447,Foggy,Rural Road,Night,Car,100,2,Medium,Bad Weather,No,Medium,High
+2024-09-24,15:13,Pathanamthitta,9.25797120449175,76.74186915300562,Cloudy,Highway,Daylight,Car,60,1,High,Drunk Driving,No,High,High
+2023-02-21,00:54,Kannur,11.863117698019899,75.35786700718612,Clear,Rural Road,Night,Truck,100,4,Low,Drunk Driving,Yes,High,Medium
+2024-04-07,06:42,Kannur,11.84173199346723,75.33031990862521,Cloudy,City Road,Daylight,Bike,50,4,High,Drunk Driving,Yes,Medium,High
+2023-12-18,15:57,Kannur,11.826151194698955,75.37868970415293,Cloudy,Rural Road,Daylight,Bus,80,3,Medium,Bad Weather,Yes,Medium,Medium
+2024-07-06,17:29,Alappuzha,9.480536125817792,76.31042030299268,Clear,Rural Road,Night,Bus,60,4,Low,Distracted Driving,No,Medium,High
+2023-04-03,21:57,Kannur,11.840514188697759,75.32230909345668,Cloudy,Rural Road,Night,Truck,50,1,Medium,Drunk Driving,Yes,High,Medium
+2023-02-05,17:18,Kozhikode,11.280951088696119,75.78918821958545,Rainy,Rural Road,Daylight,Car,100,2,Low,Overspeeding,No,Low,Medium
+2023-10-07,23:43,Thiruvananthapuram,8.541874914883081,76.9121291904272,Foggy,Highway,Daylight,Truck,80,3,Medium,Road Condition,No,High,Medium
+2024-08-17,05:48,Kollam,8.902579349835886,76.64677508962988,Rainy,Rural Road,Low Light,Bike,80,1,High,Bad Weather,No,Low,Medium
+2023-03-23,23:59,Idukki,9.866580815758097,76.94897933357335,Foggy,Highway,Low Light,Car,100,2,High,Bad Weather,No,Low,Low
+2023-07-16,07:16,Malappuram,11.058080180385689,76.09153254971109,Foggy,Highway,Daylight,Bus,40,2,Low,Drunk Driving,Yes,Medium,Medium
+2024-03-02,11:37,Wayanad,11.656421650852751,76.17360118367594,Foggy,Rural Road,Night,Car,50,2,High,Drunk Driving,No,Medium,High
+2024-10-03,05:27,Idukki,9.841496449439681,76.92512041735823,Clear,Rural Road,Night,Car,50,1,Low,Road Condition,No,Medium,Medium
+2023-03-03,15:47,Palakkad,10.779584872667003,76.67778348427875,Foggy,Highway,Daylight,Truck,50,1,High,Road Condition,Yes,Low,Medium
+2023-01-07,09:55,Kasaragod,12.536260837029065,75.01284273801072,Clear,Rural Road,Night,Truck,100,2,Medium,Distracted Driving,Yes,High,Medium
+2023-02-06,08:07,Thrissur,10.52701764726567,76.26314992712854,Foggy,City Road,Night,Car,40,1,Low,Drunk Driving,No,Low,Low
+2023-07-31,02:38,Kottayam,9.634215115025878,76.560726156307,Clear,City Road,Night,Bike,40,2,High,Drunk Driving,Yes,Medium,Low
+2023-10-31,13:31,Kollam,8.91295764462138,76.65540901654454,Cloudy,City Road,Low Light,Bike,50,1,High,Drunk Driving,No,Low,High
+2024-01-27,10:02,Malappuram,11.084171249862804,76.03300869864853,Clear,Rural Road,Low Light,Bus,50,1,High,Bad Weather,No,High,Medium
+2024-04-12,02:48,Kottayam,9.579113095857554,76.47366055617923,Rainy,Highway,Daylight,Bus,50,1,Medium,Road Condition,No,Low,Low
+2023-07-06,02:48,Kollam,8.906395746096662,76.56413607011237,Clear,Rural Road,Low Light,Car,40,1,Low,Distracted Driving,No,Low,High
+2023-10-17,22:27,Kozhikode,11.228298676937957,75.7996417571137,Foggy,Rural Road,Daylight,Bike,50,4,High,Distracted Driving,Yes,High,High
+2024-05-22,20:17,Alappuzha,9.528104803224375,76.37829391285075,Cloudy,City Road,Daylight,Bike,40,4,Medium,Overspeeding,No,Medium,High
+2023-02-18,15:37,Ernakulam,10.002050061552135,76.31131835108238,Cloudy,Rural Road,Daylight,Truck,100,2,Medium,Overspeeding,No,High,Medium
+2023-05-21,13:19,Thrissur,10.565762434710496,76.25602245895497,Rainy,City Road,Daylight,Car,50,2,Medium,Distracted Driving,Yes,High,Medium
+2023-12-28,07:11,Kasaragod,12.503355607575314,74.98417614334333,Rainy,Rural Road,Low Light,Bus,50,3,High,Overspeeding,No,High,Low
+2023-05-09,02:22,Wayanad,11.668160111584212,76.10069255045833,Cloudy,City Road,Low Light,Bus,80,2,High,Bad Weather,Yes,High,Medium
+2024-01-13,20:08,Thiruvananthapuram,8.508155249845766,76.89798227154341,Foggy,Rural Road,Low Light,Bus,60,4,High,Road Condition,Yes,Low,Medium
+2023-05-05,14:33,Alappuzha,9.505641323020013,76.30639554962204,Foggy,Rural Road,Daylight,Bike,50,3,Medium,Bad Weather,No,Low,Low
+2024-10-01,14:18,Thiruvananthapuram,8.541934033379444,76.93710580450463,Foggy,City Road,Low Light,Bus,50,1,Medium,Road Condition,Yes,Medium,Low
+2024-03-01,17:17,Kasaragod,12.487935544489067,74.99439852239617,Rainy,Rural Road,Low Light,Bus,80,4,High,Road Condition,Yes,Medium,Low
+2023-02-21,22:28,Thiruvananthapuram,8.54874710986043,76.9021059600574,Clear,City Road,Low Light,Truck,40,2,Medium,Drunk Driving,Yes,High,High
+2023-10-12,10:46,Wayanad,11.687314308084147,76.16115352874783,Clear,Highway,Night,Bus,50,3,Medium,Bad Weather,Yes,Low,Low
+2024-03-11,23:14,Ernakulam,9.975978554410796,76.28585264583334,Foggy,City Road,Night,Bus,40,1,High,Road Condition,No,Medium,Low
+2024-11-02,14:32,Ernakulam,10.017311866442846,76.25607561020935,Foggy,Highway,Low Light,Car,80,3,Medium,Overspeeding,Yes,High,Low
+2024-08-24,11:13,Kollam,8.856127761765917,76.63352828649461,Cloudy,Rural Road,Daylight,Bus,50,4,High,Overspeeding,No,High,Low
+2024-07-21,04:09,Idukki,9.85735261897875,76.93986299164007,Rainy,Highway,Night,Bike,100,4,Medium,Drunk Driving,Yes,Medium,Medium
+2024-03-22,06:30,Idukki,9.85744818245532,76.93248080821304,Rainy,Highway,Night,Truck,50,3,High,Overspeeding,No,Medium,Low
+2024-09-18,23:20,Palakkad,10.796110128893888,76.68417354695578,Clear,City Road,Daylight,Car,40,3,Low,Overspeeding,No,Medium,Medium
+2024-04-21,11:48,Pathanamthitta,9.296450810135953,76.8161718970457,Rainy,City Road,Low Light,Car,60,1,Medium,Drunk Driving,Yes,High,High
+2023-03-01,21:01,Thrissur,10.534453776182543,76.22405259451916,Cloudy,Rural Road,Daylight,Car,100,3,Medium,Distracted Driving,Yes,High,Medium
+2024-09-18,19:45,Alappuzha,9.460163533848856,76.29490913158577,Clear,Rural Road,Daylight,Car,100,2,High,Distracted Driving,Yes,Low,Medium
+2023-01-27,15:40,Wayanad,11.714087229902933,76.09902944251449,Cloudy,Rural Road,Night,Truck,50,3,Low,Overspeeding,Yes,Low,Low
+2024-04-17,23:10,Kasaragod,12.548892783213056,74.9588855762491,Cloudy,Highway,Daylight,Truck,40,3,High,Distracted Driving,No,High,Medium
+2023-09-29,20:58,Pathanamthitta,9.254733316132643,76.74409207192484,Foggy,Rural Road,Night,Car,80,3,Medium,Distracted Driving,Yes,High,Low
+2024-06-19,16:14,Wayanad,11.730381804716558,76.10912133942583,Cloudy,City Road,Daylight,Bike,50,2,Medium,Bad Weather,Yes,Medium,High
+2024-10-23,08:10,Kollam,8.918949724672473,76.57094764155316,Clear,Rural Road,Low Light,Bike,40,2,Low,Distracted Driving,Yes,Medium,High
+2023-10-14,06:33,Ernakulam,9.97825360942573,76.3473901096665,Clear,City Road,Daylight,Truck,40,4,High,Overspeeding,No,Low,Low
+2024-09-23,11:30,Kannur,11.845700675186997,75.35690881012019,Rainy,City Road,Low Light,Truck,100,2,Medium,Bad Weather,Yes,Medium,Medium
+2023-12-10,20:39,Thiruvananthapuram,8.570927789037166,76.9107928804764,Clear,Highway,Night,Bus,60,1,Medium,Overspeeding,Yes,Medium,Low
+2024-06-14,13:40,Kottayam,9.613712621862852,76.49828095035005,Rainy,City Road,Daylight,Truck,80,1,Medium,Road Condition,No,High,Low
+2024-02-06,00:48,Alappuzha,9.47270757625501,76.3084084077505,Rainy,City Road,Low Light,Bike,50,3,Medium,Distracted Driving,Yes,Low,Medium
+2024-02-04,00:19,Ernakulam,9.969312418320595,76.32272371608624,Clear,Rural Road,Daylight,Truck,60,2,Low,Drunk Driving,No,Medium,Medium
+2023-06-18,18:36,Pathanamthitta,9.220059938135003,76.79769190592071,Rainy,City Road,Low Light,Car,40,2,Medium,Distracted Driving,Yes,High,Low
+2024-04-30,08:22,Kollam,8.882004642960652,76.6124257665243,Rainy,City Road,Daylight,Truck,80,1,Medium,Drunk Driving,Yes,Low,Low
+2024-07-01,20:53,Alappuzha,9.508103400553644,76.32031938692855,Rainy,Highway,Low Light,Bike,40,1,Medium,Overspeeding,Yes,Low,Low
+2024-04-09,21:51,Kollam,8.910214216612895,76.63726925090515,Foggy,Rural Road,Low Light,Car,40,2,Medium,Bad Weather,Yes,High,Medium
+2023-02-15,14:56,Thrissur,10.533409690322776,76.20671648752247,Rainy,Rural Road,Night,Bus,60,4,High,Bad Weather,No,Medium,Medium
+2024-10-23,15:07,Kannur,11.91474046240039,75.40891773627794,Foggy,City Road,Night,Truck,50,4,Low,Distracted Driving,Yes,High,Medium
+2023-03-21,15:30,Kozhikode,11.261835897241923,75.76200863412426,Cloudy,Highway,Daylight,Truck,40,2,Medium,Bad Weather,No,Low,Medium
+2023-11-23,08:11,Idukki,9.830495981390845,76.94749203835234,Foggy,Rural Road,Low Light,Bike,80,4,High,Drunk Driving,No,Low,Medium
+2024-07-01,08:49,Thrissur,10.563698569181446,76.23695724180631,Cloudy,Rural Road,Night,Bus,60,1,High,Drunk Driving,No,Medium,Low
+2023-11-24,20:13,Alappuzha,9.503483072234772,76.34528077615693,Cloudy,City Road,Daylight,Truck,80,1,High,Road Condition,No,Low,Low
+2024-09-03,20:15,Palakkad,10.790761876884533,76.62850965102554,Clear,Highway,Night,Car,50,2,Low,Road Condition,Yes,High,Low
+2024-06-26,08:04,Thiruvananthapuram,8.549507369382706,76.90800617776557,Clear,City Road,Low Light,Truck,80,2,High,Overspeeding,Yes,Low,Medium
+2023-06-18,07:42,Kasaragod,12.487567331138074,75.03408322173047,Foggy,Highway,Low Light,Bike,80,2,Low,Road Condition,No,Low,Medium
+2024-03-04,23:38,Wayanad,11.678720469984913,76.14548893049101,Clear,Highway,Low Light,Car,60,3,High,Road Condition,Yes,High,High
+2024-07-26,15:34,Kasaragod,12.542521661172591,74.96410771600777,Foggy,Highway,Low Light,Bus,40,2,Medium,Drunk Driving,Yes,Medium,Low
+2024-10-05,21:15,Ernakulam,9.984426516868787,76.30643098172305,Rainy,City Road,Low Light,Bus,80,1,High,Distracted Driving,Yes,Low,Medium
+2023-04-22,19:31,Kannur,11.85513437651186,75.39568611911533,Clear,Rural Road,Night,Car,60,3,Medium,Bad Weather,Yes,High,Low
+2024-05-21,01:59,Pathanamthitta,9.283220640794958,76.76383760206353,Clear,City Road,Night,Bus,60,2,High,Distracted Driving,No,Low,Low
+2024-09-30,20:08,Kozhikode,11.275455812024434,75.79115802639384,Cloudy,Rural Road,Low Light,Car,100,4,Medium,Drunk Driving,No,Low,Low
+2024-01-01,20:49,Kannur,11.902030768064817,75.40758106294842,Foggy,Highway,Night,Car,80,2,Medium,Overspeeding,Yes,Medium,Medium
+2024-02-01,02:11,Thrissur,10.528847428618654,76.22561802941033,Foggy,City Road,Low Light,Truck,80,4,Low,Drunk Driving,No,Medium,High
+2023-05-05,01:11,Idukki,9.807212630875545,76.94544866562727,Clear,Rural Road,Low Light,Bike,100,1,Medium,Bad Weather,No,Low,Medium
+2024-02-07,16:28,Kozhikode,11.254136966079107,75.74486800976416,Cloudy,Highway,Low Light,Bike,80,1,Medium,Bad Weather,Yes,Low,High
+2023-12-21,09:59,Pathanamthitta,9.220464884452614,76.78809924563792,Clear,Highway,Night,Truck,80,1,High,Distracted Driving,Yes,Low,High
